@@ -5,8 +5,8 @@ Deux interfaces indépendantes, dans le même dépôt.
 ## Ouvrir l'application
 
 - [Accueil](./index.html) : choix entre les deux suivis.
-- [Suivi AS V3R11](./Suivi_AS_V3R11.html) : suivi Air-Sol, thème bleu.
-- [Suivi C V1R2](./Suivi_C_V1R2.html) : suivi CATIA, thème orange entreprise.
+- [Suivi AS V3R12](./Suivi_AS_V3R12.html) : suivi Air-Sol, thème bleu.
+- [Suivi C V1R3](./Suivi_C_V1R3.html) : suivi CATIA, thème orange entreprise.
 
 ## Données
 
@@ -32,9 +32,11 @@ Les données trouvées sous les quatre noms CATIA dans l'ancien dépôt étaient
 
 ## Sauvegarde et accès
 
-L'application lit automatiquement les JSON depuis GitHub. La sauvegarde des modifications dans GitHub est **automatique** après une configuration unique sur chaque navigateur : cliquer « Activer l’écriture », coller un **jeton personnel à permissions limitées**, autorisé sur ce seul dépôt et avec `Contents: Read and write`. Le navigateur le conserve localement et le réutilise dans les deux suivis, y compris après rechargement. Le bouton devient « Écriture active » et permet également de remplacer ou supprimer le jeton. Aucun jeton n'est intégré au code HTML ni publié dans le dépôt. Un jeton côté navigateur ne procure **aucune isolation des droits par collaborateur** : toute personne disposant du droit `Contents: write` peut modifier les huit fiches.
+Les deux suivis lisent les JSON de `suivi-onx` et enregistrent automatiquement les modifications. La première fois sur un navigateur, cliquer sur **Configurer l'écriture**, coller le jeton GitHub dans le champ masqué et cliquer **Enregistrer**. L'application vérifie l'accès au dépôt. Le jeton est ensuite mémorisé localement dans ce navigateur et réutilisé automatiquement par Suivi AS et Suivi C ; aucune ressaisie n'est nécessaire tant qu'il reste valable.
 
-**Sécurité :** ce dépôt est actuellement public et les fichiers JSON sont visibles sur Internet. Les jetons intégrés dans de précédentes versions HTML ou historiques Git doivent être révoqués, car retirer le jeton du fichier courant ne suffit pas.
+Cliquer sur **Écriture automatique** pour remplacer le jeton ou sur **Supprimer l'accès** pour l'effacer du navigateur. Aucun jeton n'est inclus dans les fichiers du dépôt ni dans l'historique de ces versions.
+
+**Sécurité :** le dépôt reste actuellement public, les JSON sont donc accessibles publiquement. L'enregistrement du jeton dans le navigateur (localStorage) n'offre pas une isolation de sécurité par collaborateur. Toute personne ayant accès au profil navigateur ou à des scripts exécutés sur ce même site peut potentiellement accéder au jeton. Ne pas coller un jeton directement dans un fichier HTML publié. Révoquer les anciens jetons exposés dans l'historique GitHub.
 
 ## Déploiement
 
