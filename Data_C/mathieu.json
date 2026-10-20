@@ -5,5 +5,15 @@
   "travel": "",
   "leave": "",
   "remark": "",
-  "activities": []
+  "activities": [
+    {
+      "id": "id_bzirx43f",
+      "category": "CATIA Lille",
+      "customCategory": "",
+      "title": "oui",
+      "done": "non",
+      "future": "",
+      "effort": "heavy"
+    }
+  ]
 }
