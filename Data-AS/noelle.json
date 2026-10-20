@@ -1,0 +1,100 @@
+{
+  "id": "noelle",
+  "name": "Noëlle FOUCONNIER",
+  "load": 1,
+  "travel": "St Jean d'Iliac le 12/10/2026",
+  "leave": "31 août au 11 septembre",
+  "remark": "NA",
+  "activities": [
+    {
+      "id": "noelle-s02",
+      "category": "Activité Labo",
+      "customCategory": "",
+      "title": "Rangement",
+      "done": "",
+      "future": "Tri et rangement de la station expérimentale DTI le 19/10",
+      "effort": "light"
+    },
+    {
+      "id": "noelle-s04",
+      "category": "Prérequis CATIA",
+      "customCategory": "",
+      "title": "CATIA Marseille",
+      "done": "Prérequis CATIA Marseille, diverses réunions et envoi du matériel",
+      "future": "",
+      "effort": "heavy"
+    },
+    {
+      "id": "noelle-s05",
+      "category": "EB",
+      "customCategory": "",
+      "title": "EB 32784",
+      "done": "La solution proposé par l'étude a été validé par la SUB Etude suite a une réunion de présentation",
+      "future": "Finalisation du document et publication dans GEODE",
+      "effort": "light"
+    },
+    {
+      "id": "noelle-s07",
+      "category": "AAV",
+      "customCategory": "",
+      "title": "Figari",
+      "done": "Le DS9000 a été mis en test début août. J’ai relancé la maintenance d’Ajaccio pour avoir un retour sur la qualité audio. Apparemment, il n’y a pas forcément eu d’amélioration de la qualité.",
+      "future": "Réunion AIR-SOL + Cléopâtre pour réfléchir ensemble au problème et aux solutions possibles.",
+      "effort": "light"
+    },
+    {
+      "id": "id_z143uzvw",
+      "category": "EB",
+      "customCategory": "",
+      "title": "EB 32155",
+      "done": "Plusieurs réunions avec les collaborateurs concernés.",
+      "future": "Finalisation et publication du document dans GEODE\nCréation de la FUR vers TRS (en attente d'informations de Pascal DAVID)",
+      "effort": "light"
+    },
+    {
+      "id": "id_9obxbh56",
+      "category": "EB",
+      "customCategory": "",
+      "title": "EB 43840",
+      "done": "Relecture de l'étude et réunion avec les collaborateurs concernés\nRéalisation des calculs d'intermodulation",
+      "future": "Rédaction et publication du document dans GEODE",
+      "effort": "light"
+    },
+    {
+      "id": "id_hugxg5eb",
+      "category": "Autre",
+      "customCategory": "MARS",
+      "title": "Projet MARS",
+      "done": "Plusieurs réunions pour présenter les différentes phases des projets CATIA",
+      "future": "",
+      "effort": "light"
+    },
+    {
+      "id": "id_fhc6t1ne",
+      "category": "AAV",
+      "customCategory": "",
+      "title": "La châtre",
+      "done": "Diverses réunions avec TRS suite a une EB, problème de raccordement opérateur",
+      "future": "Mettre en place un processus lors des études de couverture radio afin de recueillir l’avis de TRS et de prendre en compte les contraintes opérateurs propres à chaque site, avant de finaliser l’étude et de proposer une solution aux différents acteurs concernés.",
+      "effort": "light"
+    },
+    {
+      "id": "id_ehov2rve",
+      "category": "Prérequis CATIA",
+      "customCategory": "",
+      "title": "CATIA Lille",
+      "done": "Réunion de présentation des différents site avec Guillaume Lenoirdespinasse",
+      "future": "Réaliser un état des lieux complet des différents sites AAv concernés par CATIA Lille, ainsi que des sites exploitants qui en dépendent, afin de pouvoir rédiger les FUR nécessaires.\n\nCOPROJ site prévu le 13/10.\n\nDéplacement possible à Lille en semaine 48 pour le CRA et pour assister au levage du pylône du CERD.",
+      "effort": "light"
+    },
+    {
+      "id": "id_ijtcn11x",
+      "category": "Formation",
+      "customCategory": "",
+      "title": "CVL",
+      "done": "Formation nouvel arrivant CVL du 05/10 au 09/10/2026",
+      "future": "",
+      "effort": "light"
+    }
+  ]
+}
