@@ -6,7 +6,7 @@ Deux interfaces indépendantes, dans le même dépôt.
 
 - [Accueil](./index.html) : choix entre les deux suivis.
 - [Suivi AS V3R14](./Suivi_AS_V3R14.html) : suivi Air-Sol, thème bleu.
-- [Suivi C V1R6](./Suivi_C_V1R6.html) : suivi CATIA, thème orange entreprise.
+- [Suivi Catiaatia V1R7](./Suivi_Catia_V1R7.html) : suivi CATIA, thème orange entreprise.
 
 ## Données
 
@@ -50,4 +50,4 @@ Un jeton GitHub ne limite pas les droits à un collaborateur donné : s'il perme
 
 Dans GitHub : Settings → Pages → Build and deployment → Deploy from a branch → `main` / `(root)`.
 
-La page principale du site ouvre le choix entre **Suivi AS** et **Suivi C**.
+La page principale du site ouvre le choix entre **Suivi AS** et **Suivi Catia**.
