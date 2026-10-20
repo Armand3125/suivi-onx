@@ -5,5 +5,15 @@
   "travel": "- Nantes : 17 et 18 novembre\n- Lille : 23 et 24 novembre",
   "leave": "- 29 octobre après midi\n- 30 octobre ",
   "remark": "",
-  "activities": []
+  "activities": [
+    {
+      "id": "id_vowubjie",
+      "category": "CATIA Nantes",
+      "customCategory": "",
+      "title": "Configuration BAIE SAT",
+      "done": "Modification de la configuration OPE de Nantes avec les modifications des IP Radios pour la Baie Sat.",
+      "future": "",
+      "effort": "light"
+    }
+  ]
 }
