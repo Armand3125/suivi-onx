@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "id": "menouer",
+      "name": "Menouer ZAOUI"
+    },
+    {
+      "id": "noelle",
+      "name": "Noëlle FOUCONNIER"
+    },
+    {
+      "id": "vincent",
+      "name": "Vincent MONTI"
+    },
+    {
+      "id": "armand",
+      "name": "Armand JULIEN"
+    }
+  ],
+  "categories": [
+    "Couverture radio",
+    "Intermodulation",
+    "FFT",
+    "EB",
+    "MCO Pylône",
+    "Activité Labo",
+    "AAV",
+    "Chargeur ELTEK",
+    "Prérequis CATIA",
+    "FUR",
+    "FH",
+    "Formation",
+    "Autre"
+  ],
+  "aliases": {}
+}
