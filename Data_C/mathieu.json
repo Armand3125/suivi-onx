@@ -20,8 +20,8 @@
       "category": "Secbox",
       "customCategory": "",
       "title": "Format des logs pour le SOC",
-      "done": "Atelier configuration du format des logs avec Norbert Cazinares au labo DTI.",
-      "future": "",
+      "done": "Atelier configuration du format des logs avec Norbert Cazinares au labo DTI.\n=> Avancée significative sur le format des logs côté CATIA N, en attente d'un retour du SOC",
+      "future": "D'autres ateliers sont organisés pour valider le format des logs CATIA N et travailler de la même manière sur le format des logs de CATIA S",
       "effort": "light"
     },
     {
