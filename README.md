@@ -5,8 +5,8 @@ Deux interfaces indépendantes, dans le même dépôt.
 ## Ouvrir l'application
 
 - [Accueil](./index.html) : choix entre les deux suivis.
-- [Suivi AS V3R15](./Suivi_AS_V3R15.html) : suivi Air-Sol, thème bleu.
-- [Suivi Catia V1R9](./Suivi_Catia_V1R9.html) : suivi CATIA, thème orange entreprise.
+- [Suivi AS V3R17](./Suivi_AS_V3R17.html) : suivi Air-Sol, thème bleu.
+- [Suivi Catia V1R11](./Suivi_Catia_V1R11.html) : suivi CATIA, thème orange entreprise.
 
 ## Données
 
