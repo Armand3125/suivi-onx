@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "id": "mathieu",
+      "name": "Mathieu Monjardet"
+    },
+    {
+      "id": "bachar",
+      "name": "Bachar Bahsoun"
+    },
+    {
+      "id": "sami",
+      "name": "Sami Khiari"
+    },
+    {
+      "id": "guillaume",
+      "name": "Guillaume Lenoir d'Espinasse"
+    }
+  ],
+  "categories": [
+    "CATIA Bordeaux",
+    "CATIA Toulouse",
+    "CATIA Marseille",
+    "CATIA Nantes",
+    "CATIA Lille",
+    "CATIA Lyon",
+    "Labo DTI",
+    "Téléphonie",
+    "Transition",
+    "Supervision",
+    "Secbox",
+    "Réseau",
+    "Autre"
+  ],
+  "aliases": {}
+}
