@@ -26,10 +26,10 @@
     },
     {
       "id": "id_5x0baq6u",
-      "category": "Labo DTI",
+      "category": "Transition",
       "customCategory": "",
-      "title": "Insatallation des équipements de transition",
-      "done": "",
+      "title": "Installation et formation sur les équipements de transition",
+      "done": "- Aide à l'installation des SIP Proxy Transition et Mediant pour Nantes\n- Support sur l'installation des équipements de transition pour Marseille\n- Aide au paramétrage du PC de transition\n- Formation sur le Mediant et SIP Proxy transition\n- Mise à jour des documents de transition",
       "future": "",
       "effort": "light"
     },
