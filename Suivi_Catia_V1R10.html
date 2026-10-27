@@ -904,7 +904,7 @@ async function initRemote(){
       remoteSnapshots[id]=memberPayload(res.value)
     }else{
       failed.push(id);
-      const fallback=normalizeMember(DEFAULT_STATE.members.find(m=>m.id===id),i);
+      const fallback=normalizeMember(DEFAULT_STATE.members.find(m=>m.id===id)||{id,name:CANONICAL_NAMES[id]||id,load:1,activities:[]},i);
       members.push(fallback);
       remoteSnapshots[id]=memberPayload(fallback)
     }
