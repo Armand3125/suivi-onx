@@ -68,6 +68,15 @@
       "done": "- Nettoyage de la station",
       "future": "",
       "effort": "light"
+    },
+    {
+      "id": "id_0cvdpalp",
+      "category": "AAV",
+      "customCategory": "",
+      "title": "CEP/CRP Saint-Jean-d'Illac",
+      "done": "- Visite le 12/10 du CEP/CRP/Vigie Mérignac\n- Réalisation de R:\\Modernisation_Air-Sol\\10-Sites métropole\\Saint-Jean_d'Illac\\08 - audit et divers\\Visite 12-10-2026\\Inventaire équipements.xlsx + organisation des photos",
+      "future": "",
+      "effort": "light"
     }
   ]
 }
