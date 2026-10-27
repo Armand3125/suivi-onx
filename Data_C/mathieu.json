@@ -32,6 +32,15 @@
       "done": "",
       "future": "",
       "effort": "light"
+    },
+    {
+      "id": "id_7p4eq8al",
+      "category": "CATIA Lyon",
+      "customCategory": "",
+      "title": "GT Transition et présentation architecture CATIA site",
+      "done": "- Préparation des supports et des schémas pour l'architecture CATIA du site de Lyon et du GT Transition\n- Déplacement sur site le 12 novembre\n- Présentation et animation des réunions \n- Compte rendu et prises d'actions",
+      "future": "",
+      "effort": "heavy"
     }
   ]
 }
