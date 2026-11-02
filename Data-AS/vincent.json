@@ -77,6 +77,15 @@
       "done": "- Visite le 12/10 du CEP/CRP/Vigie Mérignac\n- Réalisation de R:\\Modernisation_Air-Sol\\10-Sites métropole\\Saint-Jean_d'Illac\\08 - audit et divers\\Visite 12-10-2026\\Inventaire équipements.xlsx + organisation des photos",
       "future": "",
       "effort": "light"
+    },
+    {
+      "id": "id_m0qty9vq",
+      "category": "AAV",
+      "customCategory": "",
+      "title": "AAv Grand-Ballon",
+      "done": "- Réalisation du schéma Visio \"Air-Sol Architecture Actuelle Grand-Ballon \"",
+      "future": "",
+      "effort": "light"
     }
   ]
 }
