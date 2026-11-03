@@ -5,15 +5,5 @@
   "travel": "rien",
   "leave": "",
   "remark": "",
-  "activities": [
-    {
-      "id": "id_0mqn66p6",
-      "category": "Couverture radio",
-      "customCategory": "",
-      "title": "Oui",
-      "done": "Non",
-      "future": "",
-      "effort": "light"
-    }
-  ]
+  "activities": []
 }
