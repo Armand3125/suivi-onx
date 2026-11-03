@@ -23,6 +23,15 @@
       "done": "Revue exigences étude de sécurité",
       "future": "",
       "effort": "light"
+    },
+    {
+      "id": "id_xa7b915x",
+      "category": "Labo DTI",
+      "customCategory": "",
+      "title": "Problème IRIF",
+      "done": "Travail sur problème IRIF labo",
+      "future": "",
+      "effort": "light"
     }
   ]
 }
