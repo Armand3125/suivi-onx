@@ -14,6 +14,15 @@
       "done": "Ecriture exigences pour CCTP Radio",
       "future": "",
       "effort": "light"
+    },
+    {
+      "id": "id_xlq30wv2",
+      "category": "Autre",
+      "customCategory": "Revue exigences étude de sécurité",
+      "title": "VCS Relais",
+      "done": "Revue exigences étude de sécurité",
+      "future": "",
+      "effort": "light"
     }
   ]
 }
