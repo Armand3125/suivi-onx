@@ -5,5 +5,15 @@
   "travel": "",
   "leave": "",
   "remark": "",
-  "activities": []
+  "activities": [
+    {
+      "id": "id_uanygusx",
+      "category": "Autre",
+      "customCategory": "CCTP Radio",
+      "title": "VCS Relais",
+      "done": "Ecriture exigences pour CCTP Radio",
+      "future": "",
+      "effort": "light"
+    }
+  ]
 }
