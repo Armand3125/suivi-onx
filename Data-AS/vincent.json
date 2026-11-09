@@ -86,6 +86,15 @@
       "done": "- Rédaction du Visio \"Schéma Air-Sol Architecture Actuelle Grand-Ballon\"",
       "future": "",
       "effort": "light"
+    },
+    {
+      "id": "id_3zwynce3",
+      "category": "Prérequis CATIA",
+      "customCategory": "",
+      "title": "CATIA Strasbourg",
+      "done": "- Air-Sol Architecture Actuelle RAIATEA Strasbourg",
+      "future": "",
+      "effort": "light"
     }
   ]
 }
