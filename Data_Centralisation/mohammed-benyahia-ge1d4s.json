@@ -4,6 +4,124 @@
   "load": 1,
   "travel": "",
   "leave": "",
-  "remark": "",
-  "activities": []
+  "remark": "Import depuis « Bilan des taches - Mohammed », dernière mise à jour : 25/09/2026 à 14:08. Les statuts et pourcentages reflètent cette date et ne constituent pas un état actualisé au 09/11/2026.",
+  "activities": [
+    {
+      "id": "task-us-001",
+      "category": "Autre",
+      "customCategory": "DIGIVOI",
+      "title": "US-001 — Rédiger cahier de test DIGIVOI",
+      "done": "En cours — 90 % (bilan du 25/09/2026)\nNature : Tests · Priorité : Haute · Contribution : 100 %\nDébut indiqué : 07/07/2026",
+      "future": "À poursuivre (avancement déclaré : 90 %).\nÉchéance indiquée : 30/09/2026",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-002",
+      "category": "Autre",
+      "customCategory": "DIGIVOI",
+      "title": "US-002 — Lister les scénarios de tests poste / téléphone / réseau",
+      "done": "En cours — 80 % (bilan du 25/09/2026)\nNature : Tests · Priorité : Haute · Contribution : 100 %\nDébut indiqué : 07/07/2026",
+      "future": "À poursuivre (avancement déclaré : 80 %).\nÉchéance indiquée : 30/09/2026",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-004",
+      "category": "Autre",
+      "customCategory": "DIGIVOI",
+      "title": "US-004 — Confirmer le périmètre exact des postes à tester",
+      "done": "En cours — 30 % (bilan du 25/09/2026)\nNature : Conception · Priorité : Moyenne · Contribution : 100 %\nDébut indiqué : 08/07/2026",
+      "future": "À poursuivre (avancement déclaré : 30 %).\nÉchéance indiquée : 30/09/2026",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-005",
+      "category": "Autre",
+      "customCategory": "RTC",
+      "title": "US-005 — Rédiger le cahier de test RTC",
+      "done": "En cours — 80 % (bilan du 25/09/2026)\nNature : Tests · Priorité : Haute · Contribution : 100 %\nDébut indiqué : 07/07/2026",
+      "future": "À poursuivre (avancement déclaré : 80 %).\nÉchéance indiquée : 30/09/2026",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-006",
+      "category": "Autre",
+      "customCategory": "RTC",
+      "title": "US-006 — Préparer le pinnage des lignes TEL T0/T2/FXS et la répartition lignes / cartes / interfaces / Mediant",
+      "done": "Terminée — 100 % (bilan du 25/09/2026)\nNature : Atelier · Priorité : Haute · Contribution : 100 %\nDébut indiqué : 08/07/2026",
+      "future": "Échéance indiquée : 17/07/2026",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-007",
+      "category": "Autre",
+      "customCategory": "RTC",
+      "title": "US-007 — Confirmer la répartition finale des lignes entre les équipements REIMS / Bordeaux",
+      "done": "En cours — 50 % (bilan du 25/09/2026)\nNature : Déploiement · Priorité : Haute · Contribution : 100 %",
+      "future": "À poursuivre (avancement déclaré : 50 %).\nÉchéance indiquée : 01/07/2026",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-008",
+      "category": "Autre",
+      "customCategory": "VCS Relay",
+      "title": "US-008 — MAJ CCTP  VOCS PO",
+      "done": "En cours — 30 % (bilan du 25/09/2026)\nNature : Rédaction · Priorité : Haute · Contribution : 100 %\nDébut indiqué : 06/07/2026",
+      "future": "À poursuivre (avancement déclaré : 30 %).\nÉchéance indiquée : 17/09/2026",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-009",
+      "category": "Autre",
+      "customCategory": "VCS Relay",
+      "title": "US-009 — MAJ CCTP VOCS admin",
+      "done": "En cours — 80 % (bilan du 25/09/2026)\nNature : Rédaction · Priorité : Moyenne · Contribution : 100 %\nDébut indiqué : 06/07/2026",
+      "future": "À poursuivre (avancement déclaré : 80 %).\nÉchéance indiquée : 17/09/2026",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-010",
+      "category": "Autre",
+      "customCategory": "VCS Relay",
+      "title": "US-010 — Rédaction des  exigences VOCS Archi",
+      "done": "En cours — 30 % (bilan du 25/09/2026)\nNature : Rédaction · Priorité : Haute · Contribution : 100 %\nDébut indiqué : 06/07/2026",
+      "future": "À poursuivre (avancement déclaré : 30 %).\nÉchéance indiquée : 30/09/2026",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-013",
+      "category": "Autre",
+      "customCategory": "AGLAE",
+      "title": "US-013 — Relecture ICD Militaire + commentaires",
+      "done": "En cours — 50 % (bilan du 25/09/2026)\nNature : Audit · Priorité : Haute · Contribution : 50 %\nDébut indiqué : 01/07/2026",
+      "future": "À poursuivre (avancement déclaré : 50 %).\nÉchéance indiquée : 06/07/2026",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-014",
+      "category": "Autre",
+      "customCategory": "AGLAE",
+      "title": "US-014 — Cahier de Test AGLAE",
+      "done": "En cours — 0 % (bilan du 25/09/2026)\nNature : Documentation · Priorité : Moyenne · Contribution : 50 %",
+      "future": "À poursuivre (avancement déclaré : 0 %).",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-018",
+      "category": "Autre",
+      "customCategory": "AGLAE",
+      "title": "US-018 — Voir possibilités de tests vers RAIATEA, CATIA, NVCS, ARTEMIS par la liaison labo O06",
+      "done": "Non démarrée — 0 % (bilan du 25/09/2026)\nNature : Tests · Priorité : Moyenne · Contribution : 50 %",
+      "future": "Tâche non démarrée au bilan du 25/09/2026.",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-019",
+      "category": "Autre",
+      "customCategory": "AGLAE",
+      "title": "US-019 — Faire des tests directs avec Mont de Marsan si non disponibilité SNAR",
+      "done": "Non démarrée — 0 % (bilan du 25/09/2026)\nNature : Tests · Priorité : Moyenne · Contribution : 50 %",
+      "future": "Tâche non démarrée au bilan du 25/09/2026.",
+      "effort": "light"
+    }
+  ]
 }
