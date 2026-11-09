@@ -4,6 +4,169 @@
   "load": 1,
   "travel": "",
   "leave": "",
-  "remark": "",
-  "activities": []
+  "remark": "Import de 18 tâches depuis « Bilan des taches - Arbi », dernière mise à jour : 25/09/2026 à 14:08. Les statuts et pourcentages reflètent cette date et ne constituent pas un état actualisé au 09/11/2026.",
+  "activities": [
+    {
+      "id": "task-us-013",
+      "category": "Autre",
+      "customCategory": "AGLAE",
+      "title": "US-013 — Relecture ICD Militaire + commentaires",
+      "done": "En cours — 70 % (bilan du 25/09/2026)\nNature : Audit · Priorité : Haute · Contribution : 50 %\nDébut indiqué : 01/07/2026",
+      "future": "À poursuivre (avancement déclaré : 70 %).\nPoint de suivi : Attente retour de Frederique Besse pour avancer sur le sujet (merger les commentaire et les MAJ)\nÉchéance indiquée : 06/07/2026",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-014",
+      "category": "Autre",
+      "customCategory": "AGLAE",
+      "title": "US-014 — Cahier de Test AGLAE",
+      "done": "En cours — 10 % (bilan du 25/09/2026)\nNature : Documentation · Priorité : Moyenne · Contribution : 50 %",
+      "future": "À poursuivre (avancement déclaré : 10 %).\nPoint de suivi : Attente retour de Frederique Besse pour avancer sur le sujet (merger les commentaire et les MAJ)",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-017",
+      "category": "Autre",
+      "customCategory": "AGLAE",
+      "title": "US-017 — Préparer architecture de test avec interconnexion plateforme de test armées Mont de Marsan (1 liaison est disponible au labo O06 sur des tests précédents avec ARTEMIS, voir si toujours active, une autre liaison est disponible au cube pour tests AGLAE data)",
+      "done": "En cours — 10 % (bilan du 25/09/2026)\nNature : Tests · Priorité : Moyenne · Contribution : 50 %",
+      "future": "À poursuivre (avancement déclaré : 10 %).\nPoint de suivi : Attente retour de Frederique Besse pour avancer sur le sujet (merger les commentaire et les MAJ)",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-018",
+      "category": "Autre",
+      "customCategory": "AGLAE",
+      "title": "US-018 — Voir possibilités de tests vers RAIATEA, CATIA, NVCS, ARTEMIS par la liaison labo O06",
+      "done": "Non démarrée — 0 % (bilan du 25/09/2026)\nNature : Tests · Priorité : Moyenne · Contribution : 50 %",
+      "future": "Tâche non démarrée au bilan du 25/09/2026.\nPoint de suivi : Attente retour de Frederique Besse pour avancer sur le sujet (merger les commentaire et les MAJ)",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-019",
+      "category": "Autre",
+      "customCategory": "AGLAE",
+      "title": "US-019 — Faire des tests directs avec Mont de Marsan si non disponibilité SNAR",
+      "done": "Non démarrée — 0 % (bilan du 25/09/2026)\nNature : Tests · Priorité : Moyenne · Contribution : 50 %",
+      "future": "Tâche non démarrée au bilan du 25/09/2026.\nPoint de suivi : Attente retour de Frederique Besse pour avancer sur le sujet (merger les commentaire et les MAJ)",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-021",
+      "category": "Centralisation",
+      "customCategory": "",
+      "title": "US-021 — Mettre à jour les diagrammes de flux TEL pour les appels sortants avec la modification du routage (B2BUA) avec R-URI Physique (pas logique)",
+      "done": "Terminée — 100 % (bilan du 25/09/2026)\nNature : Expertise · Priorité : Moyenne · Contribution : 100 %",
+      "future": "",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-022",
+      "category": "Centralisation",
+      "customCategory": "",
+      "title": "US-022 — Redaction des différents scénarions technique de la telephonie (appels entrants/sortants) Transfert d'appels, conférences",
+      "done": "En cours — 80 % (bilan du 25/09/2026)\nNature : Expertise · Priorité : Basse · Contribution : 100 %\nDébut indiqué : 01/07/2025",
+      "future": "À poursuivre (avancement déclaré : 80 %).",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-024",
+      "category": "Centralisation",
+      "customCategory": "",
+      "title": "US-024 — MAJ Architecture POC centralisation",
+      "done": "En cours — 60 % (bilan du 25/09/2026)\nNature : Conception · Priorité : Moyenne · Contribution : 100 %\nDébut indiqué : 01/07/2025",
+      "future": "À poursuivre (avancement déclaré : 60 %).",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-025",
+      "category": "Centralisation",
+      "customCategory": "",
+      "title": "US-025 — Mise en place d'un plan d'adressage et un plan de numéerotation du POC",
+      "done": "Terminée — 100 % (bilan du 25/09/2026)\nNature : Conception · Priorité : Moyenne · Contribution : 100 %\nDébut indiqué : 05/01/2026",
+      "future": "Échéance indiquée : 30/01/2026",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-026",
+      "category": "Centralisation",
+      "customCategory": "",
+      "title": "US-026 — Rédaction des scénarios de tests du POC centralisation",
+      "done": "En cours — 10 % (bilan du 25/09/2026)\nNature : Documentation · Priorité : Haute · Contribution : 100 %\nDébut indiqué : 05/01/2026",
+      "future": "À poursuivre (avancement déclaré : 10 %).\nÉchéance indiquée : 30/10/2026",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-027",
+      "category": "Centralisation",
+      "customCategory": "",
+      "title": "US-027 — Instalaltion des baies 15/08/10",
+      "done": "En cours — 90 % (bilan du 25/09/2026)\nNature : Déploiement · Priorité : Moyenne · Contribution : 100 %\nDébut indiqué : 05/01/2026",
+      "future": "À poursuivre (avancement déclaré : 90 %).\nÉchéance indiquée : 05/03/2026",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-030",
+      "category": "Centralisation",
+      "customCategory": "",
+      "title": "US-030 — Redaction du cahier des éxigences STAR",
+      "done": "En cours — 90 % (bilan du 25/09/2026)\nNature : Expertise · Priorité : Haute · Contribution : 100 %\nDébut indiqué : 03/05/2026",
+      "future": "À poursuivre (avancement déclaré : 90 %).\nÉchéance indiquée : 10/07/2026",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-031",
+      "category": "Centralisation",
+      "customCategory": "",
+      "title": "US-031 — Sourcing STAR",
+      "done": "En cours — 80 % (bilan du 25/09/2026)\nNature : Etude · Priorité : Haute · Contribution : 100 %",
+      "future": "À poursuivre (avancement déclaré : 80 %).",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-032",
+      "category": "Centralisation",
+      "customCategory": "",
+      "title": "US-032 — Relecture et commentaires des exigences SBC Guideline",
+      "done": "Terminée — 100 % (bilan du 25/09/2026)\nNature : Expertise · Priorité : Basse · Contribution : 100 %",
+      "future": "",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-034",
+      "category": "Autre",
+      "customCategory": "PENS",
+      "title": "US-034 — Suivie des réunions pour la mise en place d'une nouvelle liaison PENS à la DTI",
+      "done": "En cours — 10 % (bilan du 25/09/2026)\nNature : Atelier · Priorité : Basse · Contribution : 100 %",
+      "future": "À poursuivre (avancement déclaré : 10 %).",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-035",
+      "category": "Autre",
+      "customCategory": "VCS Relay",
+      "title": "US-035 — Relecture Exigences TEL VCS relais",
+      "done": "En cours — 90 % (bilan du 25/09/2026)\nNature : Support · Priorité : Moyenne · Contribution : 100 %",
+      "future": "À poursuivre (avancement déclaré : 90 %).",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-036",
+      "category": "Autre",
+      "customCategory": "VCS Relay",
+      "title": "US-036 — Rédaction CCTP VCS relais (REC,LOG)",
+      "done": "En cours — 50 % (bilan du 25/09/2026)\nNature : Rédaction · Priorité : Moyenne · Contribution : 100 %",
+      "future": "À poursuivre (avancement déclaré : 50 %).",
+      "effort": "light"
+    },
+    {
+      "id": "task-us-037",
+      "category": "Autre",
+      "customCategory": "VCS Relay",
+      "title": "US-037 — Relecture des exigences CCTP VCS relais (TEL , SAFETY, INSTALLATION, réseau)",
+      "done": "En cours — 30 % (bilan du 25/09/2026)\nNature : Support · Priorité : Moyenne · Contribution : 100 %",
+      "future": "À poursuivre (avancement déclaré : 30 %).",
+      "effort": "light"
+    }
+  ]
 }
