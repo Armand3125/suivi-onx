@@ -89,8 +89,8 @@
     },
     {
       "id": "task-us-013",
-      "category": "Autre",
-      "customCategory": "AGLAE",
+      "category": "AGLAE",
+      "customCategory": "",
       "title": "US-013 — Relecture ICD Militaire + commentaires",
       "done": "En cours — 50 % (bilan du 25/09/2026)\nNature : Audit · Priorité : Haute · Contribution : 50 %\nDébut indiqué : 01/07/2026",
       "future": "À poursuivre (avancement déclaré : 50 %).\nÉchéance indiquée : 06/07/2026",
