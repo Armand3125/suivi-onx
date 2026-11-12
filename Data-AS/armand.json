@@ -100,9 +100,9 @@
       "id": "id_nccw0c7b",
       "category": "Activité Labo",
       "customCategory": "",
-      "title": "DECOUPLAGE",
-      "done": "NA",
-      "future": "A rendre plus ergonomique à l'occasion, ce n'est pas une priorité",
+      "title": "Toundra",
+      "done": "Petit outil pour éviter d'oublier les cas d'intermodulation avec la détresse, plus ergonomique que SAVANN en première approche",
+      "future": "NA",
       "effort": "light"
     },
     {
