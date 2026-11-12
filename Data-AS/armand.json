@@ -47,7 +47,7 @@
       "category": "Intermodulation",
       "customCategory": "",
       "title": "Bastia",
-      "done": "Détection d'intermodulation, modification du plan de fréquence de MLE",
+      "done": "Les contrôleurs de Bastia ne sont pas satisfait et le passage en 8.33 kHz de MLE complique l'identification du problème",
       "future": "Problème pas totalement résolu, suivi du dossier",
       "effort": "light"
     },
