@@ -110,7 +110,7 @@
       "category": "Intermodulation",
       "customCategory": "",
       "title": "Lognes",
-      "done": "FFT sur Lognes, écoute de l'ATIS sur la freq SOL.\nÉtude de l'architecture\nDéplacement le 07/10 pour identification du problème\nUne intermodulation sur la détresse\nDeux recepteurs défaillants.",
+      "done": "CR de déplacement et debriefing\nDemande de changement d'une fréquence au site.\nLes relais des recepteurs étaient à changer, c'est la source la plus probable du défaut.",
       "future": "",
       "effort": "heavy"
     },
