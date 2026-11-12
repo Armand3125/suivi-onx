@@ -131,6 +131,15 @@
       "done": "Réunion de présentation sur les équipements Radio de Jeotron",
       "future": "",
       "effort": "light"
+    },
+    {
+      "id": "id_4jsuqkfq",
+      "category": "Couverture radio",
+      "customCategory": "",
+      "title": "Guyanne",
+      "done": "Tracé de couverture pour deux AAV de Guyane.\nRédaction d'un doc de présentation et avis sur leur mise en climax.",
+      "future": "NA",
+      "effort": "light"
     }
   ]
 }
