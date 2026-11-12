@@ -31,7 +31,7 @@
       "title": "CONF_TELERAD",
       "done": "Discussion avec Fred sur les paramètres des 2G que je ne comprenais pas notamment sur les compresseurs",
       "future": "Lecture de document à faire",
-      "effort": "heavy"
+      "effort": "light"
     },
     {
       "id": "armand-s04",
@@ -84,7 +84,7 @@
       "customCategory": "",
       "title": "BIOME",
       "done": "Amélioration de l'ergonomie de l'outil, il est utile quotidiennement pour Air-Sol",
-      "future": "Quelques erreurs de lien sont faite par l'outil, il manque les maintenances et des sections sont a suprimer.",
+      "future": "Quelques erreurs de lien sont faites par l'outil, il manque les maintenances et des sections sont à supprimer.",
       "effort": "heavy"
     },
     {
