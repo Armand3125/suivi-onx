@@ -7,15 +7,6 @@
   "remark": "NA",
   "activities": [
     {
-      "id": "armand-s01",
-      "category": "Chargeur ELTEK",
-      "customCategory": "",
-      "title": "Hanvec",
-      "done": "",
-      "future": "Chargeur d’Hanvec à venir.",
-      "effort": "light"
-    },
-    {
       "id": "armand-s02",
       "category": "Couverture radio",
       "customCategory": "",
