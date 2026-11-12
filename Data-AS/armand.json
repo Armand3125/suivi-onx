@@ -122,6 +122,15 @@
       "done": "Suivi et participation à des réunions d'autres AAV :  Tanville, Figari, MLE CRNA SO, Beauvais.",
       "future": "",
       "effort": "light"
+    },
+    {
+      "id": "id_uyt3wzqh",
+      "category": "Autre",
+      "customCategory": "Outils de Suivi",
+      "title": "Suivi d'activité",
+      "done": "Adaptation de l'outil de suivi crée pour Air-Sol pour les équipes de Catia et de Centralisation.",
+      "future": "Fiabiliser le stockage des données et l'adapter pour On-X CVL",
+      "effort": "light"
     }
   ]
 }
