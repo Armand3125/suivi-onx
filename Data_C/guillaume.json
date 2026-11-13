@@ -59,6 +59,15 @@
       "done": "COPROJ SITE n°1 le 14 octobre",
       "future": "COPROJ SITE n°2 le 24 novembre",
       "effort": "light"
+    },
+    {
+      "id": "id_bpgw08x4",
+      "category": "CATIA Lille",
+      "customCategory": "",
+      "title": "Présentation fichiers Specs de Configuration Main et Backup",
+      "done": "",
+      "future": "Présentation au site du fichier specs de configurations Main et Backup au site le 24 novembre",
+      "effort": "light"
     }
   ]
 }
