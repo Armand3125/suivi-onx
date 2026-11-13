@@ -131,6 +131,15 @@
       "done": "",
       "future": "Rédaction de la FUR pour les travaux de mise en place d’une liaison sol-sol S-DIGIVOI IP entre Melun et Tanville.",
       "effort": "light"
+    },
+    {
+      "id": "id_r8d1wqab",
+      "category": "Autre",
+      "customCategory": "MARS",
+      "title": "Dieppe",
+      "done": "",
+      "future": "Visite à prévoir au deuxième trimestre 2027, avec l'arrivée du nouveau marché travaux, pour préparer les prérequis WAN OPT A.",
+      "effort": "light"
     }
   ]
 }
