@@ -50,6 +50,15 @@
       "done": "Récupération et adaptation de la supervision des composants de Supervision Panorama du SIP PROXY Transition et du MEDIANT",
       "future": "Installation de ces composants de supervision sur le site de Blagnac",
       "effort": "light"
+    },
+    {
+      "id": "id_nabwkfie",
+      "category": "CATIA Lille",
+      "customCategory": "",
+      "title": "COPROJ SITE",
+      "done": "e",
+      "future": "",
+      "effort": "light"
     }
   ]
 }
