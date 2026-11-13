@@ -29,7 +29,7 @@
       "category": "Transition",
       "customCategory": "",
       "title": "Installation et formation sur les équipements de transition",
-      "done": "- Aide à l'installation des SIP Proxy Transition et Mediant pour Nantes\n- Support sur l'installation des équipements de transition pour Marseille\n- Aide au paramétrage du PC de transition\n- Formation sur le Mediant et SIP Proxy transition\n- Mise à jour des documents de transition\n- Réponse aux questions de l'équipe et intervention au labo pour aide\n- Résolution de problèmes divers",
+      "done": "- Aide à l'installation des SIP Proxy Transition et Mediant pour Nantes\n- Support sur l'installation des équipements de transition pour Marseille\n- Aide au paramétrage du PC de transition\n- Formation sur le Mediant et SIP Proxy transition & adaptation des supports de formation -> à faire\n- Mise à jour des documents de transition générique\n- Configuration switch simu renar pour test labo\n- Réponse aux questions de l'équipe on-x/CATIA et intervention au labo pour aide\n- Résolution de problèmes divers",
       "future": "- Déplacement des équipements de transition à Blagnac le 24 et 25 novembre",
       "effort": "heavy"
     },
