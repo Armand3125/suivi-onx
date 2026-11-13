@@ -58,7 +58,7 @@
       "title": "Mise à jour des systèmes CATIA",
       "done": "- Mise à jour du système CATIA S à Bordeaux en S45 avec présence de l'industriel\n- Mise à jour du système CATIA N à Bordeaux en S47 avec présence de l'industriel",
       "future": "",
-      "effort": "light"
+      "effort": "heavy"
     },
     {
       "id": "id_wxad66m6",
@@ -67,7 +67,7 @@
       "title": "Suivi d'action et d'installation",
       "done": "- Organisation de point régulier avec le site et DO pour suivre l'avancée des différentes actions.\n- Assistance et réponse à des sujets techniques\n- Suivi du planning\n- Participation à des points régulier avec INS pour le suivi des installations",
       "future": "- Suivi des actions et installations jusqu'aux UOP Contrôle",
-      "effort": "light"
+      "effort": "heavy"
     },
     {
       "id": "id_0web4xvd",
