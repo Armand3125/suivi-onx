@@ -5,5 +5,15 @@
   "travel": "Toulouse :  Installation des équipements de transition le 24 et 25 novembre",
   "leave": "",
   "remark": "",
-  "activities": []
+  "activities": [
+    {
+      "id": "id_lz1py736",
+      "category": "CATIA Toulouse",
+      "customCategory": "",
+      "title": "Suivi d'installation des équipements transition",
+      "done": "",
+      "future": "24 et 25 novembre : accompagnement pour le suivi d'installation des équipements de transition",
+      "effort": "light"
+    }
+  ]
 }
