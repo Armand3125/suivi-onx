@@ -77,6 +77,15 @@
       "done": "- Préparation, organisation et animation du GT Transition sur site à Toulouse\n- Préparation et configuration des équipements de transition pour installation sur site",
       "future": "",
       "effort": "heavy"
+    },
+    {
+      "id": "id_2xgbo3v0",
+      "category": "Autre",
+      "customCategory": "Forum entreprise",
+      "title": "Forum entreprise",
+      "done": "Participation forum entreprise N7",
+      "future": "",
+      "effort": "light"
     }
   ]
 }
