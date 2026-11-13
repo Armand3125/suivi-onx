@@ -68,6 +68,15 @@
       "done": "",
       "future": "Présentation au site du fichier specs de configurations Main et Backup au site le 24 novembre",
       "effort": "light"
+    },
+    {
+      "id": "id_g92hruq7",
+      "category": "Labo DTI",
+      "customCategory": "",
+      "title": "Mise à jour de la configuration Main",
+      "done": "Début de la mise à jour de la configuration Main du labo DTI pour avoir une configuration des missions et rôles plus facile à gérer sur GSRT",
+      "future": "A continuer",
+      "effort": "light"
     }
   ]
 }
