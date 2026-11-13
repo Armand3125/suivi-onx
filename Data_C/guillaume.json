@@ -48,7 +48,7 @@
       "customCategory": "",
       "title": "Adaptation composants supervision de la Transition",
       "done": "Récupération et adaptation de la supervision des composants de Supervision Panorama du SIP PROXY Transition et du MEDIANT",
-      "future": "",
+      "future": "Installation de ces composants de supervision sur le site de Blagnac",
       "effort": "light"
     }
   ]
