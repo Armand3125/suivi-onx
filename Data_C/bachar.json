@@ -59,6 +59,15 @@
       "done": "-Terminer  la rédaction de la note de transition de Marseille et préparation du groupe de travail (GT) de transition. \n-Installation et configuration des sipproxy transition de Marseille.",
       "future": "- Poursuite de l’installation et de la configuration des SIP Proxy Transition de Marseille.\n-Préparation des supports de présentation pour la prochaine GT Transition à Marseille, révu le 17 décembre à Marseille.",
       "effort": "heavy"
+    },
+    {
+      "id": "id_834cfnhz",
+      "category": "Transition",
+      "customCategory": "",
+      "title": "Transition CATIA",
+      "done": "-Préparation du simulateur RENAR afin de permettre l’accueil des connexions des SIP Proxy des trois sites au niveau du switch.",
+      "future": "-Configuration des SIP Proxy Transition afin de réaliser des tests de charge à l’aide de la pondeuse/receveuse d’appels.",
+      "effort": "heavy"
     }
   ]
 }
