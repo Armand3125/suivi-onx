@@ -32,6 +32,15 @@
       "done": "",
       "future": "- Commencer le suivi des différents sujets liés au projet CATIA Lyon.",
       "effort": "light"
+    },
+    {
+      "id": "id_qqko1c8h",
+      "category": "Autre",
+      "customCategory": "Formation et points divers",
+      "title": "Formation et points divers",
+      "done": "-Participations aux diverses réunions CATIA : COPROJ, ...",
+      "future": "-Participations aux diverses réunions CATIA : COPROJ, ...",
+      "effort": "light"
     }
   ]
 }
