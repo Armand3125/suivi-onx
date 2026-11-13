@@ -122,6 +122,15 @@
       "done": "Participation à plusieurs réunions concernant la rénovation de la station de Tanville.",
       "future": "",
       "effort": "light"
+    },
+    {
+      "id": "id_dp9e9o0e",
+      "category": "Autre",
+      "customCategory": "MARS",
+      "title": "S DIGIVOI IP Melun-Tanville",
+      "done": "",
+      "future": "Rédaction de la FUR pour les travaux de mise en place d’une liaison sol-sol S-DIGIVOI IP entre Melun et Tanville.",
+      "effort": "light"
     }
   ]
 }
