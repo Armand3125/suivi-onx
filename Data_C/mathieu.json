@@ -68,6 +68,15 @@
       "done": "- Organisation de point régulier avec le site et DO pour suivre l'avancée des différentes actions.\n- Assistance et réponse à des sujets techniques\n- Suivi du planning\n- Participation à des points régulier avec INS pour le suivi des installations",
       "future": "- Suivi des actions et installations jusqu'aux UOP Contrôle",
       "effort": "light"
+    },
+    {
+      "id": "id_0web4xvd",
+      "category": "CATIA Toulouse",
+      "customCategory": "",
+      "title": "GT Transition",
+      "done": "- Préparation, organisation et animation du GT Transition sur site à Toulouse\n- Préparation et configuration des équipements de transition pour installation sur site",
+      "future": "",
+      "effort": "heavy"
     }
   ]
 }
