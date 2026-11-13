@@ -32,6 +32,15 @@
       "done": "Tests avec la MOE SUPV de la version GSRT 2.9.0",
       "future": "",
       "effort": "light"
+    },
+    {
+      "id": "id_jklpsxbe",
+      "category": "Supervision",
+      "customCategory": "",
+      "title": "Tests version ASTRID 2.2.0",
+      "done": "Tests avec la MOE SUPV de la version ASTRID 2.2.0",
+      "future": "",
+      "effort": "light"
     }
   ]
 }
