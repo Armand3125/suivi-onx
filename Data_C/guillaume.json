@@ -41,6 +41,15 @@
       "done": "Tests avec la MOE SUPV de la version ASTRID 2.2.0",
       "future": "",
       "effort": "light"
+    },
+    {
+      "id": "id_i5cfdmw2",
+      "category": "Supervision",
+      "customCategory": "",
+      "title": "Adaptation composants supervision de la Transition",
+      "done": "Récupération et adaptation de la supervision des composants de Supervision Panorama du SIP PROXY Transition et du MEDIANT",
+      "future": "",
+      "effort": "light"
     }
   ]
 }
