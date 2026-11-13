@@ -92,7 +92,7 @@
       "category": "Labo DTI",
       "customCategory": "",
       "title": "Remplacement et installation des HST FRQ M5 par M6",
-      "done": "- Remplacement et installation D127P4 des HST FRQ M5 par M6 pour libérer du spare pour Bordeaux",
+      "done": "- Remplacement et installation D127P4 des HST FRQ M5 par M6 pour libérer du spare pour Bordeaux\n- Installation et reconfiguration des VMs",
       "future": "",
       "effort": "heavy"
     },
