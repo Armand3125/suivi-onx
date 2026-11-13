@@ -14,6 +14,15 @@
       "done": "Modification de la configuration OPE de Nantes avec les modifications des IP Radios pour la Baie Sat.",
       "future": "",
       "effort": "light"
+    },
+    {
+      "id": "id_dlz74zto",
+      "category": "CATIA Nantes",
+      "customCategory": "",
+      "title": "Préparation des équipements de transition Téléphonie",
+      "done": "- Installation et configuration des SIP Proxy Transition\n- Installation et configuration des Médiants\n- Installation et configuration du PC Transition et switch Netgear",
+      "future": "",
+      "effort": "heavy"
     }
   ]
 }
