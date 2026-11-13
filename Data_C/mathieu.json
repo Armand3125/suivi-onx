@@ -113,6 +113,15 @@
       "done": "- Suivi COPROJ\n- Réponse question technique, mise à jour schéma",
       "future": "",
       "effort": "light"
+    },
+    {
+      "id": "id_4mukicas",
+      "category": "CATIA Toulouse",
+      "customCategory": "",
+      "title": "Suivi projet",
+      "done": "- Suivi CRA et activité site",
+      "future": "",
+      "effort": "light"
     }
   ]
 }
