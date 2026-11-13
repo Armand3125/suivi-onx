@@ -59,6 +59,15 @@
       "done": "•\tRevue nouvelle version CREF Marseille + note d’architecture réseau.\n•\tMettre à jour les schémas des antennes avancée suite a la mise a jour de la note d’architecture réseau.\n•\tMise à jour de l'annexe Marseille de CATIA à la suite des modifications apportées aux schémas des antennes avancées.",
       "future": "Suivi de la finalisation des sujets réseau de Marseille en collaboration avec ITR.",
       "effort": "heavy"
+    },
+    {
+      "id": "id_wfd5a5zn",
+      "category": "CATIA Marseille",
+      "customCategory": "",
+      "title": "Transition Marseille",
+      "done": "-Terminer  la rédaction de la note de transition de Marseille et préparation du groupe de travail (GT) de transition. \n-Installation et configuration des sipproxy transition de Marseille.",
+      "future": "",
+      "effort": "heavy"
     }
   ]
 }
