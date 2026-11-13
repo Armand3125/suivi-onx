@@ -47,8 +47,8 @@
       "category": "EB",
       "customCategory": "",
       "title": "EB 32155",
-      "done": "Plusieurs réunions avec les collaborateurs concernés.",
-      "future": "Finalisation et publication du document dans GEODE\nCréation de la FUR vers TRS (en attente d'informations de Pascal DAVID)",
+      "done": "- Plusieurs réunions organisées avec les collaborateurs concernés.\n- L'ajout de la fréquence de Rennes à Tanville entraîne des problèmes d'intermodulation d'ordre 3 à l'émission, qu'il n'est pas possible de supprimer.\n- FBS a proposé une liste de canaux pour remplacer celui de la SUPE de Brest. En attente d'un retour du CRNA O.",
+      "future": "- Réaliser les calculs d'intermodulation avec les nouveaux canaux proposés pour la SUPE.\n- Finaliser et publier le document dans GEODE.\n- Créer la FUR à destination de TRS (en attente des informations de Pascal DAVID).",
       "effort": "light"
     },
     {
