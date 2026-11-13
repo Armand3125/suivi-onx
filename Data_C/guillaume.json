@@ -23,6 +23,15 @@
       "done": "- Installation et configuration des SIP Proxy Transition\n- Installation et configuration des Médiants\n- Installation et configuration du PC Transition et switch Netgear",
       "future": "",
       "effort": "heavy"
+    },
+    {
+      "id": "id_sju6rr6d",
+      "category": "Supervision",
+      "customCategory": "",
+      "title": "Tests version GSRT 2.9.0",
+      "done": "Tests avec la MOE SUPV de la version GSRT 2.9.0",
+      "future": "",
+      "effort": "light"
     }
   ]
 }
