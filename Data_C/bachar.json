@@ -23,6 +23,15 @@
       "done": "Installation des nouveau host Frequentis au labo.",
       "future": "- Réalisation de tests sur les SIP Proxy Transition des différents sites au laboratoire CATIA.",
       "effort": "light"
+    },
+    {
+      "id": "id_aqbzoo32",
+      "category": "CATIA Lyon",
+      "customCategory": "",
+      "title": "Suivie d'activités",
+      "done": "",
+      "future": "- Commencer le suivi des différents sujets liés au projet CATIA Lyon.",
+      "effort": "light"
     }
   ]
 }
