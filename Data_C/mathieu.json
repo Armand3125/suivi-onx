@@ -22,7 +22,7 @@
       "title": "Format des logs pour le SOC",
       "done": "Atelier configuration du format des logs avec Norbert Cazinares au labo DTI.\n=> Avancée significative sur le format des logs côté CATIA N, en attente d'un retour du SOC\n\n- Récupération du guide de journalisation pour analyse (en cours)",
       "future": "- D'autres ateliers sont organisés pour valider le format des logs CATIA N et travailler de la même manière sur le format des logs de CATIA S\n- Prochain atelier prévu le 26 Novembre avec le SOC Bordeaux pour validation de la configuration à la DTI",
-      "effort": "light"
+      "effort": "heavy"
     },
     {
       "id": "id_5x0baq6u",
@@ -94,7 +94,7 @@
       "title": "Remplacement et installation des HST FRQ M5 par M6",
       "done": "- Remplacement et installation D127P4 des HST FRQ M5 par M6 pour libérer du spare pour Bordeaux",
       "future": "",
-      "effort": "light"
+      "effort": "heavy"
     }
   ]
 }
