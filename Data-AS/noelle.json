@@ -95,6 +95,15 @@
       "done": "Rédaction du cahier des charges à destination d'INEO.\n\nVisite des lieux avec INEO.\n\nPlusieurs échanges par mail pour apporter des précisions sur certains points et corriger les différents plans.",
       "future": "Le début des travaux est prévu pour le premier trimestre 2027.\n\nLa baie chargeur sera livrée en amont en fin d'année 2026 à la logistique (vu avec Christophe Javouhey), qui pourra ensuite l'acheminer jusqu'à la station DTI le moment venu.\n\nIl faut demander à INEO le bon de livraison avec l'ensemble des numéros de série afin que Kevin puisse créer les références dans MAXIMAT.",
       "effort": "light"
+    },
+    {
+      "id": "id_aacyw39s",
+      "category": "Autre",
+      "customCategory": "MARS",
+      "title": "Bâle Mulhouse",
+      "done": "/",
+      "future": "",
+      "effort": "light"
     }
   ]
 }
