@@ -11,7 +11,7 @@
       "category": "CATIA Marseille",
       "customCategory": "",
       "title": "CATIA Marseille",
-      "done": "•\tVisite sur le site de Marseille le 14 octobre pour la préparation de la mise sous tension des baies Freq.\n•\tOrganisation de points d'avancement consacrés aux configurations MAIN et de secours.\n•\tTerminer  la rédaction de la note de transition de Marseille et préparation du groupe de travail (GT) de transition.\n•\tRéinstallation du PC de configuration à la suite de l’intégration du nouveau drop 127 des sites de Marseille.\n•\tInstallation des nouveau host Frequentis au labo.\n•\tInstallation et configuration des sipproxy transition de Marseille.",
+      "done": "•\tVisite sur le site de Marseille le 14 octobre pour la préparation de la mise sous tension des baies Freq.\n•\tOrganisation de points d'avancement consacrés aux configurations MAIN et de secours.\n\n•\tRéinstallation du PC de configuration à la suite de l’intégration du nouveau drop 127 des sites de Marseille.\n•\tInstallation des nouveau host Frequentis au labo.\n•",
       "future": "- Préparation et participation au prochain CRA n°13, prévu le 17 décembre à Marseille.\n- Poursuite de l’installation et de la configuration des SIP Proxy Transition de Marseille.\n- Préparation des supports de présentation pour la prochaine GT Transition à Marseille, révu le 17 décembre à Marseille.",
       "effort": "heavy"
     },
