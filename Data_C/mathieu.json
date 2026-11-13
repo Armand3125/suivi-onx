@@ -50,6 +50,15 @@
       "done": "Analyse des dérivations des tickets secours et mise à jour du cahier des exigence avec dérivation (V10)",
       "future": "",
       "effort": "light"
+    },
+    {
+      "id": "id_piwdn8yg",
+      "category": "CATIA Bordeaux",
+      "customCategory": "",
+      "title": "Mise à jour des systèmes CATIA",
+      "done": "- Mise à jour du système CATIA S à Bordeaux en S45 avec présence de l'industriel\n- Mise à jour du système CATIA N à Bordeaux en S47 avec présence de l'industriel",
+      "future": "",
+      "effort": "light"
     }
   ]
 }
