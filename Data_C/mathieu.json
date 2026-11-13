@@ -101,9 +101,9 @@
       "category": "CATIA Bordeaux",
       "customCategory": "",
       "title": "GT Transition & UOP Controle",
-      "done": "",
+      "done": "- Note de transition Bordeaux",
       "future": "-  Préparation, organisation et animation GT Transition pour les UOPs Contrôle -> Finalisation des procédures, discussion MMR ... \n- UOP Contrôle :\n-\tPhase 0 – Test Audio + BSS : S2 2027 – 11 au 13 janvier (3 jours) \n-\tSAT2 S5 : Pas planifié encore précisément mais surement 2j.\n-\tPhase 1 – UOP Radio fréquence unitaire : 8 au 11 février + 12 en spare \n-\tPhase 2 – UOP Radio Couplage Scénario :  15 au 18 février \n-\tPhase 3 – UOP Radio tout : 22 au 24 février \n-\tPhase 4 – Téléphonie du 1 au 2 mars \n-\tPhase 5 – All in du 3 au 5 mars",
-      "effort": "light"
+      "effort": "heavy"
     },
     {
       "id": "id_7t2szyut",
