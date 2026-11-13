@@ -7,15 +7,6 @@
   "remark": "",
   "activities": [
     {
-      "id": "id_uhukdpjg",
-      "category": "CATIA Marseille",
-      "customCategory": "",
-      "title": "Mise sous Tension",
-      "done": "•\tVisite sur le site de Marseille le 14 octobre pour la préparation de la mise sous tension des baies Freq.\n\n•\tInstallation des nouveau host Frequentis au labo.\n•",
-      "future": "- Préparation et participation au prochain CRA n°13, prévu le 17 décembre à Marseille.",
-      "effort": "heavy"
-    },
-    {
       "id": "id_09sbeqi8",
       "category": "Labo DTI",
       "customCategory": "",
