@@ -5,5 +5,15 @@
   "travel": "17 décembre à Marseille",
   "leave": "30/12/26 --> 13/01/27",
   "remark": "",
-  "activities": []
+  "activities": [
+    {
+      "id": "id_uhukdpjg",
+      "category": "CATIA Marseille",
+      "customCategory": "",
+      "title": "CATIA Marseille",
+      "done": "•\tVisite sur le site de Marseille le 14 octobre pour la préparation de la mise sous tension des baies Freq.\n•\tPréparation et participation au prochain CRA n°12, prévu le 12 novembre.\n•\tSuivi de la finalisation des sujets réseau de Marseille en collaboration avec ITR.\n•\tRevue nouvelle version CREF Marseille + note d’architecture réseau.\n•\tMettre à jour les schémas des antennes avancée suite a la mise a jour de la note d’architecture réseau.\n•\tMise à jour de l'annexe Marseille de CATIA à la suite des modifications apportées aux schémas des antennes avancées.\n•\tOrganisation de points d'avancement consacrés aux configurations MAIN et de secours.\n•\tTerminer  la rédaction de la note de transition de Marseille et préparation du groupe de travail (GT) de transition.\n•\tRéinstallation du PC de configuration à la suite de l’intégration du nouveau drop 127 des sites de Marseille.\n•\tInstallation des nouveau host Frequentis au labo.\n•\tInstallation et configuration des sipproxy transition de Marseille.",
+      "future": "- Préparation et participation au prochain CRA n°13, prévu le 17 décembre à Marseille.\n- Poursuite de l’installation et de la configuration des SIP Proxy Transition de Marseille.\n- Réalisation de tests sur les SIP Proxy Transition des différents sites au laboratoire CATIA.\n- Préparation des supports de présentation pour la prochaine GT Transition à Marseille.",
+      "effort": "heavy"
+    }
+  ]
 }
