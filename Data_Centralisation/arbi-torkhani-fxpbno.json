@@ -41,24 +41,6 @@
       "done": "En cours — 90 % (bilan du 25/09/2026)\nNature : Support · Priorité : Moyenne · Contribution : 100 %",
       "future": "À poursuivre (avancement déclaré : 90 %).",
       "effort": "light"
-    },
-    {
-      "id": "task-us-036",
-      "category": "Autre",
-      "customCategory": "VCS Relay",
-      "title": "US-036 — Rédaction CCTP VCS relais (REC,LOG)",
-      "done": "En cours — 50 % (bilan du 25/09/2026)\nNature : Rédaction · Priorité : Moyenne · Contribution : 100 %",
-      "future": "À poursuivre (avancement déclaré : 50 %).",
-      "effort": "light"
-    },
-    {
-      "id": "task-us-037",
-      "category": "Autre",
-      "customCategory": "VCS Relay",
-      "title": "US-037 — Relecture des exigences CCTP VCS relais (TEL , SAFETY, INSTALLATION, réseau)",
-      "done": "En cours — 30 % (bilan du 25/09/2026)\nNature : Support · Priorité : Moyenne · Contribution : 100 %",
-      "future": "À poursuivre (avancement déclaré : 30 %).",
-      "effort": "light"
     }
   ]
 }
