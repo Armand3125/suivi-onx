@@ -86,6 +86,15 @@
       "done": "Qualification du produit Frafos Prise en main , installation et conf des SBC  en cours",
       "future": "Continuer à qualification du produit Frafos Prise en main , installation et conf des SBC",
       "effort": "light"
+    },
+    {
+      "id": "id_6l2m490z",
+      "category": "AGLAE",
+      "customCategory": "",
+      "title": "Mise à jours de l'ICD",
+      "done": "Terminé- Revue et mise à jour de l’ICD.",
+      "future": "Revue et mise à jour de l’ICD.(Attente de retour des Militaires)",
+      "effort": "light"
     }
   ]
 }
