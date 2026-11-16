@@ -19,9 +19,9 @@
       "id": "task-us-002",
       "category": "Autre",
       "customCategory": "DIGIVOI",
-      "title": "DIG-CAT 002| Tests fonctionnels SNOM",
-      "done": "En cours — 80 % (bilan du 25/09/2026)\nNature : Tests · Priorité : Haute · Contribution : 100 %\nDébut indiqué : 07/07/2026",
-      "future": "À poursuivre (avancement déclaré : 80 %).\nÉchéance indiquée : 30/09/2026",
+      "title": "DIG-CAT 002 – Tests fonctionnels SNOM",
+      "done": "Installation et configuration des téléphones SNOM. Rédaction d’un cahier décrivant leur procédure d’installation et de paramétrage. Intégration et configuration d’un IPBX pour permettre l’utilisation des téléphones sur la plateforme de tests.  \nDémarrage des tests fonctionnels SNOM. À la suite d’un dysfonctionnement du Picoscope qui bloquait la poursuite des essais, un diagnostic a été réalisé avec Patrice et une solution de réparation a été mise en œuvre, permettant de reprendre les tests.",
+      "future": "Poursuivre les tests fonctionnels SNOM, compléter les différents scénarios et intégrer progressivement les résultats dans le cahier de tests. Préparer ensuite les essais avec l’équipe CATIA et le proxy SIP.",
       "effort": "heavy"
     },
     {
