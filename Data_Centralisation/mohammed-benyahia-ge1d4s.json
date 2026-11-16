@@ -25,15 +25,6 @@
       "effort": "heavy"
     },
     {
-      "id": "task-us-004",
-      "category": "Autre",
-      "customCategory": "DIGIVOI",
-      "title": "US-004 — Confirmer le périmètre exact des postes à tester",
-      "done": "En cours — 30 % (bilan du 25/09/2026)\nNature : Conception · Priorité : Moyenne · Contribution : 100 %\nDébut indiqué : 08/07/2026",
-      "future": "À poursuivre (avancement déclaré : 30 %).\nÉchéance indiquée : 30/09/2026",
-      "effort": "heavy"
-    },
-    {
       "id": "task-us-005",
       "category": "Autre",
       "customCategory": "RTC",
