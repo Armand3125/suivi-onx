@@ -66,7 +66,7 @@
       "customCategory": "VCS Relay",
       "title": "Rel-001| Consolidation des exigences Administration / Supervision",
       "done": "Poursuite de la revue et de la consolidation des exigences dans PFIS. Prise en compte des commentaires et ajout de propositions de clarification. Travail sur les accès, l’administration, la supervision et les logs.\nen cours(80%)",
-      "future": "Traiter les derniers commentaires et finaliser les exigences prioritaires du lot Administration / Supervision.",
+      "future": "Traiter les derniers commentaires et finaliser les exigences prioritaires du lot Administration / Supervision.\nContinuer d'aider Philippe sur l’intégration des exigences PSSI (partie IA et plus).",
       "effort": "heavy"
     },
     {
