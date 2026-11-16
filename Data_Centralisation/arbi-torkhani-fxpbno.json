@@ -104,6 +104,15 @@
       "done": "Rédaction et consolidation des exigences de sécurité du système STAR et du VCS nominal.réponse aux commentaires des relecteurs et mise à jours des exigences",
       "future": "Consolidation et validation des exigences fonctionnelles du VCS relais.",
       "effort": "light"
+    },
+    {
+      "id": "id_5ctkkyq6",
+      "category": "VCS Relay",
+      "customCategory": "",
+      "title": "Revu des exigences",
+      "done": "Consolidation des fonctions de haut niveau de la Téléphonie (Revu des fonctions niveau 4 et 5 du FBS) et rédaction des nouvelles exigences",
+      "future": "Consolidation, réponses aux commentaires des relecteurs et mise à jour des exigences TEL",
+      "effort": "light"
     }
   ]
 }
