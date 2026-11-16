@@ -19,7 +19,7 @@
       "id": "task-us-002",
       "category": "Autre",
       "customCategory": "DIGIVOI",
-      "title": "DIG-CAT 002 – Tests fonctionnels SNOM",
+      "title": "DIG-CAT 002 | Tests fonctionnels SNOM",
       "done": "Installation et configuration des téléphones SNOM D735 et des modules D7C. Intégration et paramétrage d’un IPBX pour permettre leur utilisation sur la plateforme de tests.  \nDémarrage des tests fonctionnels. Un dysfonctionnement du Picoscope bloquant les essais a été diagnostiqué avec Patrice. Une solution de réparation a été mise en œuvre afin de reprendre la campagne de tests. Les premiers résultats ont été analysés et intégrés dans le cahier de tests.",
       "future": "Poursuivre les différents scénarios de tests fonctionnels, analyser les résultats et compléter le cahier de tests ainsi que le référentiel de configuration. Préparer ensuite les essais avec l’équipe CATIA et le proxy SIP.",
       "effort": "heavy"
