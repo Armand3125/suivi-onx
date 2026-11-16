@@ -41,6 +41,15 @@
       "done": "En cours — 90 % (bilan du 25/09/2026)\nNature : Support · Priorité : Moyenne · Contribution : 100 %",
       "future": "À poursuivre (avancement déclaré : 90 %).",
       "effort": "light"
+    },
+    {
+      "id": "id_ipytyavj",
+      "category": "Centralisation",
+      "customCategory": "",
+      "title": "Sourcing STAR",
+      "done": "Relance et réponse aux questions des indus et des intégrateurs",
+      "future": "",
+      "effort": "light"
     }
   ]
 }
