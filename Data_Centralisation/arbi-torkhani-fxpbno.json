@@ -25,15 +25,6 @@
       "effort": "light"
     },
     {
-      "id": "task-us-034",
-      "category": "Autre",
-      "customCategory": "PENS",
-      "title": "US-034 — Suivie des réunions pour la mise en place d'une nouvelle liaison PENS à la DTI",
-      "done": "En cours — 10 % (bilan du 25/09/2026)\nNature : Atelier · Priorité : Basse · Contribution : 100 %",
-      "future": "À poursuivre (avancement déclaré : 10 %).",
-      "effort": "light"
-    },
-    {
       "id": "task-us-035",
       "category": "Autre",
       "customCategory": "VCS Relay",
