@@ -95,6 +95,15 @@
       "done": "Rédaction et affinage des exigences fonctionnelles relatives à l’enregistrement légal et des critères de satisfaction associés, réponse aux commentaires des relecteurs et mise à jours des exigences",
       "future": "Consolidation des exigences, réponses aux commentaires et mise à jour.",
       "effort": "light"
+    },
+    {
+      "id": "id_pyoul1f8",
+      "category": "VCS Relay",
+      "customCategory": "",
+      "title": "Revu des exigences",
+      "done": "Rédaction et consolidation des exigences de sécurité du système STAR et du VCS nominal.réponse aux commentaires des relecteurs et mise à jours des exigences",
+      "future": "Consolidation et validation des exigences fonctionnelles du VCS relais.",
+      "effort": "light"
     }
   ]
 }
