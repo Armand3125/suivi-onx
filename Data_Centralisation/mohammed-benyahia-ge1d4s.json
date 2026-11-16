@@ -11,7 +11,7 @@
       "category": "Autre",
       "customCategory": "DIGIVOI",
       "title": "DIG-CAT 001 – Rédiger le cahier de tests DIGIVOI",
-      "done": "Rédaction et structuration du cahier de tests DIGIVOI finalisées. La campagne de tests a débuté et le cahier est alimenté progressivement avec les résultats obtenus.",
+      "done": "Rédaction et structuration du cahier de tests DIGIVOI pour les téléphones SNOM D735 et les modules D7C. Création du référentiel de tests et de configuration ainsi que de l’architecture de la plateforme de laboratoire.  \nEn complément du cahier de tests, rédaction des guides d’installation et de configuration pour le laboratoire et DIGIVOI, ainsi que du document regroupant les exigences applicables aux équipements SNOM pour CATIA et DIGIVOI. La campagne de tests a débuté et les résultats sont intégrés progressivement dans le cahier.",
       "future": "Poursuivre la campagne de tests, analyser les résultats obtenus et compléter le cahier de tests jusqu’à la validation de l’ensemble des scénarios\nRajout de tests avec SIP proxy suite à la demande de l'équipe CATIA,\nSe raccorder avec l'équipe CATIA afin d'effectuer des tests avec le SIP proxy.",
       "effort": "heavy"
     },
