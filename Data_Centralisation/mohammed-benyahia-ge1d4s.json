@@ -61,15 +61,6 @@
       "effort": "heavy"
     },
     {
-      "id": "task-us-009",
-      "category": "Autre",
-      "customCategory": "VCS Relay",
-      "title": "Rel-002| Redaction exigences DATA et SecBox",
-      "done": "Identification du périmètre et des premières exigences à traiter.",
-      "future": "Démarrer puis consolider les exigences DATA et SecBox.",
-      "effort": "heavy"
-    },
-    {
       "id": "task-us-010",
       "category": "Autre",
       "customCategory": "VCS Relay",
