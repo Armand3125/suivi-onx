@@ -77,6 +77,15 @@
       "done": "Planification et dimensionnement des liaisons nécessaires au POC, en coordination avec TRS (Liaison REID2) et SNARE.",
       "future": "Mise en place de l'architecture de Test au Labo Catia",
       "effort": "light"
+    },
+    {
+      "id": "id_r5sqm9kg",
+      "category": "AGLAE",
+      "customCategory": "",
+      "title": "POC AGLAE",
+      "done": "Qualification du produit Frafos Prise en main , installation et conf des SBC  en cours",
+      "future": "Continuer à qualification du produit Frafos Prise en main , installation et conf des SBC",
+      "effort": "light"
     }
   ]
 }
