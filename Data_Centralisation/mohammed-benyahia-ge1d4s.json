@@ -4,7 +4,7 @@
   "load": 2,
   "travel": "A fixer: Bordeaux pour Remplacement RTC , sous réserve de la réponse de Grégory",
   "leave": "Ancien congé: 12/11 au 13/11\nPas de congé à venir",
-  "remark": "Priorité actuelle donnée aux exigences VCS Relay et aux essais RTC/Digivoi au laboratoire avec suivi des projets AGLAE et PENS",
+  "remark": "Priorité actuelle donnée aux exigences VCS Relay et aux essais RTC/Digivoi au laboratoire.",
   "activities": [
     {
       "id": "task-us-001",
@@ -100,7 +100,7 @@
       "id": "id_txdt6u6d",
       "category": "Centralisation",
       "customCategory": "",
-      "title": "Cent - 002 Sourcing STAR",
+      "title": "Cent - 002 | Sourcing STAR",
       "done": "Suivi des réunions de présentation du STAR",
       "future": "Suivi des réunions de présentation du STAR",
       "effort": "light"
