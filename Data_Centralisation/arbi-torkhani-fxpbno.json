@@ -113,6 +113,15 @@
       "done": "Consolidation des fonctions de haut niveau de la Téléphonie (Revu des fonctions niveau 4 et 5 du FBS) et rédaction des nouvelles exigences",
       "future": "Consolidation, réponses aux commentaires des relecteurs et mise à jour des exigences TEL",
       "effort": "heavy"
+    },
+    {
+      "id": "id_j8rufbz2",
+      "category": "DIGIVOI",
+      "customCategory": "",
+      "title": "DIG-CAT 001 – Rédiger le cahier de tests DIGIVOI",
+      "done": "Relecture du cahier de test, commentaire et mise à jour des différents scénarios de tests",
+      "future": "Validation du premier jet du cahier de tests",
+      "effort": "light"
     }
   ]
 }
