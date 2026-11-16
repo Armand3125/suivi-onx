@@ -10,9 +10,9 @@
       "id": "task-us-019",
       "category": "Autre",
       "customCategory": "AGLAE",
-      "title": "US-019 — Faire des tests directs avec Mont de Marsan si non disponibilité SNAR",
-      "done": "Non démarrée — 0 % (bilan du 25/09/2026)\nNature : Tests · Priorité : Moyenne · Contribution : 50 %",
-      "future": "Tâche non démarrée au bilan du 25/09/2026.\nPoint de suivi : Attente retour de Frederique Besse pour avancer sur le sujet (merger les commentaire et les MAJ)",
+      "title": "Cahier de besoin de haut niveau",
+      "done": "Rédaction d'un cahier de besoin et des fonctions de haut niveau",
+      "future": "Consolidation et réponse aux commentaires des relecteurs",
       "effort": "light"
     },
     {
