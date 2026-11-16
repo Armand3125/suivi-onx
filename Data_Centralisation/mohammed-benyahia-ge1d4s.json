@@ -28,7 +28,7 @@
       "id": "task-us-005",
       "category": "Autre",
       "customCategory": "RTC",
-      "title": "RTC 001| Rédiger le cahier de tests RTC",
+      "title": "RTC 001 - Rédiger le cahier de tests RTC",
       "done": "Rédaction et finalisation du cahier de tests RTC. Les scénarios de tests ainsi que les supports nécessaires à la centralisation des configurations et des résultats ont été préparés.",
       "future": "Alimenter le cahier avec les résultats obtenus lors de la campagne de tests et le mettre à jour en fonction des éventuels ajustements de configuration.",
       "effort": "heavy"
