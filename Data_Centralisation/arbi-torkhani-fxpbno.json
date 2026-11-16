@@ -68,6 +68,15 @@
       "done": "Suivi des réunions et planification des tâches avec les militaires.",
       "future": "Suivi des réunions et planification des tâches avec les militaires (revue de planning prévu le 07/12",
       "effort": "light"
+    },
+    {
+      "id": "id_810y8ys0",
+      "category": "AGLAE",
+      "customCategory": "",
+      "title": "POC AGLAE",
+      "done": "Planification et dimensionnement des liaisons nécessaires au POC, en coordination avec TRS (Liaison REID2) et SNARE.",
+      "future": "Mise en place de l'architecture de Test au Labo Catia",
+      "effort": "light"
     }
   ]
 }
