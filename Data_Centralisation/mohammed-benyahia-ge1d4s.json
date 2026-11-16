@@ -86,6 +86,15 @@
       "done": "Participation aux échanges réguliers avec Frédéric et Arbi afin de suivre l’avancement des différents sujets AGLAE, partager les informations disponibles et coordonner les actions à mener.",
       "future": "Poursuivre les échanges réguliers avec Frédéric et Arbi et assurer le suivi des différents points en cours.",
       "effort": "light"
+    },
+    {
+      "id": "id_7a4w1q8y",
+      "category": "AGLAE",
+      "customCategory": "",
+      "title": "AGLAE 002 – Suivi avec les sites concernés",
+      "done": "Participation aux réunions mensuelles avec les sites concernés afin de suivre l’avancement des sujets, recueillir leurs besoins et leur fournir les informations nécessaires lorsque ma contribution est requise.",
+      "future": "Continuer à participer aux réunions mensuelles et répondre aux demandes d’informations ou de précisions des sites.",
+      "effort": "light"
     }
   ]
 }
