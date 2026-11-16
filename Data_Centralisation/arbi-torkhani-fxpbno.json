@@ -52,15 +52,6 @@
       "effort": "light"
     },
     {
-      "id": "task-us-021",
-      "category": "Centralisation",
-      "customCategory": "",
-      "title": "US-021 — Mettre à jour les diagrammes de flux TEL pour les appels sortants avec la modification du routage (B2BUA) avec R-URI Physique (pas logique)",
-      "done": "Terminée — 100 % (bilan du 25/09/2026)\nNature : Expertise · Priorité : Moyenne · Contribution : 100 %",
-      "future": "",
-      "effort": "light"
-    },
-    {
       "id": "task-us-022",
       "category": "Centralisation",
       "customCategory": "",
