@@ -5,5 +5,15 @@
   "travel": "",
   "leave": "",
   "remark": "",
-  "activities": []
+  "activities": [
+    {
+      "id": "id_4x3apgh5",
+      "category": "Labo DTI",
+      "customCategory": "",
+      "title": "Problème configuration IRIF du labo",
+      "done": "Travail sur problème IRIF labo",
+      "future": "",
+      "effort": "light"
+    }
+  ]
 }
