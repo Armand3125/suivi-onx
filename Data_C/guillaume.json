@@ -104,6 +104,15 @@
       "done": "Relecture de la note de transition générique livrée par TRS",
       "future": "",
       "effort": "light"
+    },
+    {
+      "id": "id_g7bf2iuo",
+      "category": "Supervision",
+      "customCategory": "",
+      "title": "Note supervision IRIF CATIA avec ASTRID",
+      "done": "Rédaction d'une note sur la supervision de l'IRIF CATIA avec ASTRID",
+      "future": "",
+      "effort": "light"
     }
   ]
 }
