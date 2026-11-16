@@ -46,9 +46,9 @@
       "id": "task-us-007",
       "category": "Autre",
       "customCategory": "RTC",
-      "title": "US-007 — Confirmer la répartition finale des lignes entre les équipements REIMS / Bordeaux",
-      "done": "En cours — 50 % (bilan du 25/09/2026)\nNature : Déploiement · Priorité : Haute · Contribution : 100 %",
-      "future": "À poursuivre (avancement déclaré : 50 %).\nÉchéance indiquée : 01/07/2026",
+      "title": "RTC 003 – Préparer la configuration des sites de Reims et Bordeaux",
+      "done": "Échanges réalisés avec les équipes de Reims et de Bordeaux afin de préparer le remplacement des équipements RTC. Pour Reims, les informations nécessaires à la préparation de la configuration ont été récupérées.  \nPour Bordeaux, une réunion a permis de réaliser un premier état des lieux de l’installation existante et d’identifier les principaux équipements et contraintes à prendre en compte.",
+      "future": "À l’issue de la campagne de tests, commencer la configuration des équipements destinés à Reims à partir des informations déjà recueillies. Effectuer le déplacement à Bordeaux afin de compléter l’état des lieux, valider avec le site les modalités d’installation du matériel et récupérer les informations nécessaires avant de démarrer sa configuration.",
       "effort": "heavy"
     },
     {
