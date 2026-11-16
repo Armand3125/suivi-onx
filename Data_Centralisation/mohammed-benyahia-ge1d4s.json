@@ -86,33 +86,6 @@
       "done": "En cours — 50 % (bilan du 25/09/2026)\nNature : Audit · Priorité : Haute · Contribution : 20 %\nDébut indiqué : 01/07/2026",
       "future": "À poursuivre (avancement déclaré : 50 %).\nÉchéance indiquée : 06/07/2026",
       "effort": "light"
-    },
-    {
-      "id": "task-us-014",
-      "category": "Autre",
-      "customCategory": "AGLAE",
-      "title": "US-014 — Cahier de Test AGLAE",
-      "done": "En cours — 0 % (bilan du 25/09/2026)\nNature : Documentation · Priorité : Moyenne · Contribution : 50 %",
-      "future": "À poursuivre (avancement déclaré : 0 %).",
-      "effort": "light"
-    },
-    {
-      "id": "task-us-018",
-      "category": "Autre",
-      "customCategory": "AGLAE",
-      "title": "US-018 — Voir possibilités de tests vers RAIATEA, CATIA, NVCS, ARTEMIS par la liaison labo O06",
-      "done": "Non démarrée — 0 % (bilan du 25/09/2026)\nNature : Tests · Priorité : Moyenne · Contribution : 50 %",
-      "future": "Tâche non démarrée au bilan du 25/09/2026.",
-      "effort": "light"
-    },
-    {
-      "id": "task-us-019",
-      "category": "Autre",
-      "customCategory": "AGLAE",
-      "title": "US-019 — Faire des tests directs avec Mont de Marsan si non disponibilité SNAR",
-      "done": "Non démarrée — 0 % (bilan du 25/09/2026)\nNature : Tests · Priorité : Moyenne · Contribution : 50 %",
-      "future": "Tâche non démarrée au bilan du 25/09/2026.",
-      "effort": "light"
     }
   ]
 }
