@@ -7,24 +7,6 @@
   "remark": "",
   "activities": [
     {
-      "id": "task-us-013",
-      "category": "Autre",
-      "customCategory": "AGLAE",
-      "title": "US-013 — Relecture ICD Militaire + commentaires",
-      "done": "En cours — 70 % (bilan du 25/09/2026)\nNature : Audit · Priorité : Haute · Contribution : 50 %\nDébut indiqué : 01/07/2026",
-      "future": "À poursuivre (avancement déclaré : 70 %).\nPoint de suivi : Attente retour de Frederique Besse pour avancer sur le sujet (merger les commentaire et les MAJ)\nÉchéance indiquée : 06/07/2026",
-      "effort": "light"
-    },
-    {
-      "id": "task-us-014",
-      "category": "Autre",
-      "customCategory": "AGLAE",
-      "title": "US-014 — Cahier de Test AGLAE",
-      "done": "En cours — 10 % (bilan du 25/09/2026)\nNature : Documentation · Priorité : Moyenne · Contribution : 50 %",
-      "future": "À poursuivre (avancement déclaré : 10 %).\nPoint de suivi : Attente retour de Frederique Besse pour avancer sur le sujet (merger les commentaire et les MAJ)",
-      "effort": "light"
-    },
-    {
       "id": "task-us-017",
       "category": "Autre",
       "customCategory": "AGLAE",
