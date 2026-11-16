@@ -37,9 +37,9 @@
       "id": "task-us-006",
       "category": "Autre",
       "customCategory": "RTC",
-      "title": "US-006 — Préparer le pinnage des lignes TEL T0/T2/FXS et la répartition lignes / cartes / interfaces / Mediant",
-      "done": "Terminée — 100 % (bilan du 25/09/2026)\nNature : Atelier · Priorité : Haute · Contribution : 100 %\nDébut indiqué : 08/07/2026",
-      "future": "Échéance indiquée : 17/07/2026",
+      "title": "RTC 002 – Configuration de la baie et des équipements",
+      "done": "Finalisation de l’organisation et de la configuration de la baie du laboratoire ainsi que des équipements associés. Ajout et intégration de deux IPBX dans la baie pour les besoins du projet DIGIVOI. Paramétrage des IPBX afin de permettre l’enregistrement et l’utilisation des téléphones SNOM sur la plateforme de tests.",
+      "future": "Vérifier le fonctionnement de l’ensemble de la configuration pendant les essais et réaliser les ajustements nécessaires en fonction des résultats obtenus.",
       "effort": "heavy"
     },
     {
