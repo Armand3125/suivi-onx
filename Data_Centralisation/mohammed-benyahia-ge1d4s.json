@@ -61,15 +61,6 @@
       "effort": "heavy"
     },
     {
-      "id": "task-us-010",
-      "category": "Autre",
-      "customCategory": "VCS Relay",
-      "title": "Rel-003| Rédaction des exigences Architecture",
-      "done": "Rédaction et consolidation des exigences relatives à l’intégration, la mutualisation, la disponibilité, les flux de management et la continuité en mode dégradé.\nEn cours 80%",
-      "future": "Finaliser la revue du lot Architecture et traiter les derniers points restant à clarifier.",
-      "effort": "heavy"
-    },
-    {
       "id": "task-us-013",
       "category": "AGLAE",
       "customCategory": "",
