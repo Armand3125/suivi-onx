@@ -10,10 +10,10 @@
       "id": "task-us-001",
       "category": "Autre",
       "customCategory": "DIGIVOI",
-      "title": "US-001 — Rédiger cahier de test DIGIVOI",
-      "done": "En cours — 90 % (bilan du 25/09/2026)\nNature : Tests · Priorité : Haute · Contribution : 100 %\nDébut indiqué : 07/07/2026",
-      "future": "À poursuivre (avancement déclaré : 90 %).\nÉchéance indiquée : 30/09/2026",
-      "effort": "light"
+      "title": "DIG-CAT 001|  Rédiger cahier de test DIGIVOI",
+      "done": "Terminer\nCompagne de tests débuté",
+      "future": "Poursuite des tests\nse raccorder avec l'équipe Catie afin d'effectuer des tests avec le SIP proxy",
+      "effort": "heavy"
     },
     {
       "id": "task-us-002",
