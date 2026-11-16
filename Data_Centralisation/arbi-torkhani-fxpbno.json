@@ -37,7 +37,7 @@
       "id": "id_lvmxyuxk",
       "category": "Centralisation",
       "customCategory": "",
-      "title": "POC centralisation",
+      "title": "Cent - 003 POC Centralisation",
       "done": "Mise à jour des schémas d'architecture , remplacement des SBC oracle sur l'architecture par les SBC Frafos",
       "future": "Prise en main, montée en compétence sur les SBC Frafos, installation et configuration",
       "effort": "heavy"
