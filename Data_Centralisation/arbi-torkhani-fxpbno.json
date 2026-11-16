@@ -7,15 +7,6 @@
   "remark": "",
   "activities": [
     {
-      "id": "task-us-017",
-      "category": "Autre",
-      "customCategory": "AGLAE",
-      "title": "US-017 — Préparer architecture de test avec interconnexion plateforme de test armées Mont de Marsan (1 liaison est disponible au labo O06 sur des tests précédents avec ARTEMIS, voir si toujours active, une autre liaison est disponible au cube pour tests AGLAE data)",
-      "done": "En cours — 10 % (bilan du 25/09/2026)\nNature : Tests · Priorité : Moyenne · Contribution : 50 %",
-      "future": "À poursuivre (avancement déclaré : 10 %).\nPoint de suivi : Attente retour de Frederique Besse pour avancer sur le sujet (merger les commentaire et les MAJ)",
-      "effort": "light"
-    },
-    {
       "id": "task-us-018",
       "category": "Autre",
       "customCategory": "AGLAE",
