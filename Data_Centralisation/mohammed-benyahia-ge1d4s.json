@@ -55,9 +55,9 @@
       "id": "task-us-008",
       "category": "Autre",
       "customCategory": "VCS Relay",
-      "title": "Rel-001| Consolidation des exigences Administration / Supervision",
-      "done": "Poursuite de la revue et de la consolidation des exigences dans PFIS. Prise en compte des commentaires et ajout de propositions de clarification. Travail sur les accès, l’administration, la supervision et les logs.\nen cours(80%)",
-      "future": "Traiter les derniers commentaires et finaliser les exigences prioritaires du lot Administration / Supervision.\nContinuer d'aider Philippe sur l’intégration des exigences PSSI (partie IA et plus).",
+      "title": "Rel-001 | Revue et consolidation des exigences",
+      "done": "Revue, rédaction et consolidation des exigences VCS Relay dans PFIS pour les lots Administration/Supervision, Architecture, DATA/SecBox et PSSI. Prise en compte des commentaires des relecteurs, ajout de propositions de clarification et mise à jour des exigences.\nen cours:\n- Architecture (80%)",
+      "future": "Poursuivre la consolidation des exigences, répondre aux commentaires restants et finaliser les points à clarifier sur l’ensemble des lots.",
       "effort": "heavy"
     },
     {
