@@ -10,9 +10,9 @@
       "id": "task-us-001",
       "category": "Autre",
       "customCategory": "DIGIVOI",
-      "title": "DIG-CAT 001|  Rédiger cahier de test DIGIVOI",
-      "done": "Terminer\nCompagne de tests débuté",
-      "future": "Poursuite des tests\nse raccorder avec l'équipe Catie afin d'effectuer des tests avec le SIP proxy",
+      "title": "DIG-CAT 001 – Rédiger le cahier de tests DIGIVOI",
+      "done": "Rédaction et structuration du cahier de tests DIGIVOI finalisées. La campagne de tests a débuté et le cahier est alimenté progressivement avec les résultats obtenus.",
+      "future": "Poursuivre la campagne de tests, analyser les résultats obtenus et compléter le cahier de tests jusqu’à la validation de l’ensemble des scénarios\nRajout de tests avec SIP proxy suite à la demande de l'équipe CATIA,\nSe raccorder avec l'équipe CATIA afin d'effectuer des tests avec le SIP proxy.",
       "effort": "heavy"
     },
     {
