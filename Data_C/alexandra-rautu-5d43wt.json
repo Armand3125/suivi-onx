@@ -14,6 +14,15 @@
       "done": "Travail sur problème IRIF labo",
       "future": "",
       "effort": "light"
+    },
+    {
+      "id": "id_4vqdh2gc",
+      "category": "Autre",
+      "customCategory": "VCS RELAY",
+      "title": "VCS RELAY",
+      "done": "Ecriture exigences pour CCTP Radio",
+      "future": "",
+      "effort": "light"
     }
   ]
 }
