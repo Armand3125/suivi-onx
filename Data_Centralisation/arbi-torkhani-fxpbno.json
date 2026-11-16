@@ -122,6 +122,15 @@
       "done": "Relecture du cahier de test, commentaire et mise à jour des différents scénarios de tests",
       "future": "Validation du premier jet du cahier de tests",
       "effort": "light"
+    },
+    {
+      "id": "id_6eev8o34",
+      "category": "DIGIVOI",
+      "customCategory": "",
+      "title": "DIG-CAT 002 – Tests fonctionnels SNOM",
+      "done": "Suivi des tests avec Mohamed et Patrice",
+      "future": "Appui de Mohamed si besoin à la suite des tests",
+      "effort": "light"
     }
   ]
 }
