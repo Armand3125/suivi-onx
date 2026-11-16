@@ -95,6 +95,15 @@
       "done": "Suivi des réunions de cadrage pour la mise en place des passerelles VoiP vers MUAC via Maastricht, discussion de l'architecture cible",
       "future": "Suivi des réunions de cadrage pour la mise en place des passerelles VoiP vers MUAC via Maastricht, discussion de l'architecture cible",
       "effort": "light"
+    },
+    {
+      "id": "id_0v74ckoo",
+      "category": "VCS Relay",
+      "customCategory": "",
+      "title": "Revu des exigences",
+      "done": "Rédaction et affinage des exigences fonctionnelles relatives à l’enregistrement légal et des critères de satisfaction associés, réponse aux commentaires des relecteurs et mise à jours des exigences",
+      "future": "Consolidation des exigences, réponses aux commentaires et mise à jour.",
+      "effort": "light"
     }
   ]
 }
