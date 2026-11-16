@@ -73,10 +73,10 @@
       "id": "task-us-009",
       "category": "Autre",
       "customCategory": "VCS Relay",
-      "title": "US-009 — MAJ CCTP VOCS admin",
-      "done": "En cours — 80 % (bilan du 25/09/2026)\nNature : Rédaction · Priorité : Moyenne · Contribution : 100 %\nDébut indiqué : 06/07/2026",
-      "future": "À poursuivre (avancement déclaré : 80 %).\nÉchéance indiquée : 17/09/2026",
-      "effort": "light"
+      "title": "Rel-002| Lots DATA et SecBox",
+      "done": "Identification du périmètre et des premières exigences à traiter.",
+      "future": "Démarrer puis consolider les exigences DATA et SecBox.",
+      "effort": "heavy"
     },
     {
       "id": "task-us-010",
