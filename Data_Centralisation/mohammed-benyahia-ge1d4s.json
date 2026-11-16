@@ -95,6 +95,15 @@
       "done": "Suivi des réunions de cadrage pour la mise en place des passerelles VoIP vers MUAC via Maastricht et échanges sur l’architecture cible.",
       "future": "Poursuivre le suivi des réunions de cadrage et les échanges concernant l’architecture cible.",
       "effort": "light"
+    },
+    {
+      "id": "id_txdt6u6d",
+      "category": "Centralisation",
+      "customCategory": "",
+      "title": "Cent - 002 Sourcing STAR",
+      "done": "Suivi des réunions de présentation du STAR",
+      "future": "Suivi des réunions de présentation du STAR",
+      "effort": "light"
     }
   ]
 }
