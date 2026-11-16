@@ -13,7 +13,7 @@
       "title": "Cahier de besoin de haut niveau",
       "done": "Rédaction d'un cahier de besoin et des fonctions de haut niveau",
       "future": "Consolidation et réponse aux commentaires des relecteurs",
-      "effort": "light"
+      "effort": "heavy"
     },
     {
       "id": "task-us-032",
