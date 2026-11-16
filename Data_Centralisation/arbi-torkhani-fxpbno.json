@@ -112,7 +112,7 @@
       "title": "Revu des exigences",
       "done": "Consolidation des fonctions de haut niveau de la Téléphonie (Revu des fonctions niveau 4 et 5 du FBS) et rédaction des nouvelles exigences",
       "future": "Consolidation, réponses aux commentaires des relecteurs et mise à jour des exigences TEL",
-      "effort": "light"
+      "effort": "heavy"
     }
   ]
 }
