@@ -4,7 +4,7 @@
   "load": 2,
   "travel": "A fixer: Bordeaux pour Remplacement RTC , sous réserve de la réponse de Grégory",
   "leave": "Ancien congé: 12/11 au 13/11\nPas de congé à venir",
-  "remark": "Priorité actuelle donnée aux exigences VCS Relay et aux essais RTC/Digivoi au laboratoire.",
+  "remark": "Priorité actuelle donnée aux exigences VCS Relay et aux essais RTC/Digivoi au laboratoire avec suivi des projets AGLAE et PENS",
   "activities": [
     {
       "id": "task-us-001",
