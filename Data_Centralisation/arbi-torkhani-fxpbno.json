@@ -52,69 +52,6 @@
       "effort": "light"
     },
     {
-      "id": "task-us-022",
-      "category": "Centralisation",
-      "customCategory": "",
-      "title": "US-022 — Redaction des différents scénarions technique de la telephonie (appels entrants/sortants) Transfert d'appels, conférences",
-      "done": "En cours — 80 % (bilan du 25/09/2026)\nNature : Expertise · Priorité : Basse · Contribution : 100 %\nDébut indiqué : 01/07/2025",
-      "future": "À poursuivre (avancement déclaré : 80 %).",
-      "effort": "light"
-    },
-    {
-      "id": "task-us-024",
-      "category": "Centralisation",
-      "customCategory": "",
-      "title": "US-024 — MAJ Architecture POC centralisation",
-      "done": "En cours — 60 % (bilan du 25/09/2026)\nNature : Conception · Priorité : Moyenne · Contribution : 100 %\nDébut indiqué : 01/07/2025",
-      "future": "À poursuivre (avancement déclaré : 60 %).",
-      "effort": "light"
-    },
-    {
-      "id": "task-us-025",
-      "category": "Centralisation",
-      "customCategory": "",
-      "title": "US-025 — Mise en place d'un plan d'adressage et un plan de numéerotation du POC",
-      "done": "Terminée — 100 % (bilan du 25/09/2026)\nNature : Conception · Priorité : Moyenne · Contribution : 100 %\nDébut indiqué : 05/01/2026",
-      "future": "Échéance indiquée : 30/01/2026",
-      "effort": "light"
-    },
-    {
-      "id": "task-us-026",
-      "category": "Centralisation",
-      "customCategory": "",
-      "title": "US-026 — Rédaction des scénarios de tests du POC centralisation",
-      "done": "En cours — 10 % (bilan du 25/09/2026)\nNature : Documentation · Priorité : Haute · Contribution : 100 %\nDébut indiqué : 05/01/2026",
-      "future": "À poursuivre (avancement déclaré : 10 %).\nÉchéance indiquée : 30/10/2026",
-      "effort": "light"
-    },
-    {
-      "id": "task-us-027",
-      "category": "Centralisation",
-      "customCategory": "",
-      "title": "US-027 — Instalaltion des baies 15/08/10",
-      "done": "En cours — 90 % (bilan du 25/09/2026)\nNature : Déploiement · Priorité : Moyenne · Contribution : 100 %\nDébut indiqué : 05/01/2026",
-      "future": "À poursuivre (avancement déclaré : 90 %).\nÉchéance indiquée : 05/03/2026",
-      "effort": "light"
-    },
-    {
-      "id": "task-us-030",
-      "category": "Centralisation",
-      "customCategory": "",
-      "title": "US-030 — Redaction du cahier des éxigences STAR",
-      "done": "En cours — 90 % (bilan du 25/09/2026)\nNature : Expertise · Priorité : Haute · Contribution : 100 %\nDébut indiqué : 03/05/2026",
-      "future": "À poursuivre (avancement déclaré : 90 %).\nÉchéance indiquée : 10/07/2026",
-      "effort": "light"
-    },
-    {
-      "id": "task-us-031",
-      "category": "Centralisation",
-      "customCategory": "",
-      "title": "US-031 — Sourcing STAR",
-      "done": "En cours — 80 % (bilan du 25/09/2026)\nNature : Etude · Priorité : Haute · Contribution : 100 %",
-      "future": "À poursuivre (avancement déclaré : 80 %).",
-      "effort": "light"
-    },
-    {
       "id": "task-us-032",
       "category": "Centralisation",
       "customCategory": "",
