@@ -37,7 +37,7 @@
       "id": "task-us-006",
       "category": "Autre",
       "customCategory": "RTC",
-      "title": "RTC 002 – Configuration de la baie et des équipements",
+      "title": "RTC 002 | Configuration de la baie et des équipements",
       "done": "Finalisation de l’organisation et de la configuration de la baie du laboratoire ainsi que des équipements associés. Ajout et intégration de deux IPBX dans la baie pour les besoins du projet DIGIVOI. Paramétrage des IPBX afin de permettre l’enregistrement et l’utilisation des téléphones SNOM sur la plateforme de tests.",
       "future": "Vérifier le fonctionnement de l’ensemble de la configuration pendant les essais et réaliser les éventuels ajustements identifiés. Mettre en place une liaison permettant aux autres membres du laboratoire d’utiliser les téléphones SNOM raccordés à la baie, afin de regrouper les téléphones dans un même meuble et de faciliter leur utilisation pour les différents essais.",
       "effort": "heavy"
