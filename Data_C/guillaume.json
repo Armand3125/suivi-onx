@@ -95,6 +95,15 @@
       "done": "",
       "future": "CRA Nantes n°11",
       "effort": "light"
+    },
+    {
+      "id": "id_ft5tum8w",
+      "category": "Transition",
+      "customCategory": "",
+      "title": "Note de transition TRS",
+      "done": "Relecture de la note de transition générique livrée par TRS",
+      "future": "",
+      "effort": "light"
     }
   ]
 }
