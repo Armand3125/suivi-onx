@@ -95,6 +95,15 @@
       "done": "Terminé- Revue et mise à jour de l’ICD.",
       "future": "Revue et mise à jour de l’ICD.(Attente de retour des Militaires)",
       "effort": "light"
+    },
+    {
+      "id": "id_v0zpmiys",
+      "category": "PENS",
+      "customCategory": "",
+      "title": "Suivi des réunion",
+      "done": "Suivi des réunions de cadrage pour la mise en place des passerelles VoiP vers MUAC via Maastricht, discussion de l'architecture cible",
+      "future": "Suivi des réunions de cadrage pour la mise en place des passerelles VoiP vers MUAC via Maastricht, discussion de l'architecture cible",
+      "effort": "light"
     }
   ]
 }
