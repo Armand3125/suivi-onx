@@ -14,6 +14,15 @@
       "relay": "",
       "part": "Journée",
       "note": ""
+    },
+    {
+      "id": "id_m2bdfl6o",
+      "type": "Congé",
+      "start": "2026-11-02",
+      "end": "2026-11-13",
+      "relay": "",
+      "part": "Journée",
+      "note": ""
     }
   ],
   "activities": [
