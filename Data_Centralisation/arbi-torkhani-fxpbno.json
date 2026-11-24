@@ -51,7 +51,7 @@
       "done": "Présentation des besoins et animation des ateliers avec les intégrateurs et les industriels.",
       "future": "Atelier de présentation du STAR avec R&S le 23/11",
       "effort": "heavy",
-      "status": "Non renseigné",
+      "status": "En cours",
       "priority": "Haute",
       "start": "",
       "due": "",
@@ -72,7 +72,12 @@
           "progress": 90
         }
       ],
-      "notes": {}
+      "notes": {
+        "mohammed-benyahia-ge1d4s": {
+          "done": "",
+          "future": ""
+        }
+      }
     },
     {
       "id": "id_ipytyavj",
