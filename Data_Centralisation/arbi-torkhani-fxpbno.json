@@ -165,7 +165,7 @@
       "contact": "",
       "reference": "",
       "meeting": "",
-      "archived": false,
+      "archived": true,
       "assignments": [
         {
           "memberId": "arbi-torkhani-fxpbno",
