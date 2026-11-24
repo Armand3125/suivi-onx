@@ -5,7 +5,17 @@
   "travel": "A fixer: Bordeaux pour Remplacement RTC , sous réserve de la réponse de Grégory",
   "leave": "Ancien congé: 12/11 au 13/11\nPas de congé à venir",
   "remark": "Priorité actuelle donnée aux exigences VCS Relay et aux essais RTC/Digivoi au laboratoire.",
-  "availability": [],
+  "availability": [
+    {
+      "id": "id_0pav2i23",
+      "type": "Congé",
+      "start": "2026-11-18",
+      "end": "2026-11-20",
+      "relay": "",
+      "part": "Journée",
+      "note": ""
+    }
+  ],
   "activities": [
     {
       "id": "task-us-001",
