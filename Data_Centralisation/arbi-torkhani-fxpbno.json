@@ -165,8 +165,8 @@
       "done": "Planification et dimensionnement des liaisons nécessaires au POC, en coordination avec TRS (Liaison REID2) et SNARE.",
       "future": "Mise en place de l'architecture de Test au Labo Catia",
       "effort": "heavy",
-      "status": "Non renseigné",
-      "priority": "Non renseignée",
+      "status": "Terminée",
+      "priority": "Basse",
       "start": "",
       "due": "",
       "taskType": "",
@@ -178,7 +178,7 @@
         {
           "memberId": "arbi-torkhani-fxpbno",
           "weight": 100,
-          "progress": null
+          "progress": 100
         }
       ],
       "notes": {}
