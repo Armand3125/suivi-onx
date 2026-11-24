@@ -23,6 +23,15 @@
       "relay": "",
       "part": "Journée",
       "note": ""
+    },
+    {
+      "id": "id_nbcipp4c",
+      "type": "Congé",
+      "start": "2026-11-03",
+      "end": "2026-11-11",
+      "relay": "",
+      "part": "Journée",
+      "note": "oui"
     }
   ],
   "activities": [
