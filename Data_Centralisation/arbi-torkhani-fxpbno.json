@@ -53,8 +53,13 @@
       "assignments": [
         {
           "memberId": "arbi-torkhani-fxpbno",
-          "weight": 100,
-          "progress": null
+          "weight": 50,
+          "progress": 40
+        },
+        {
+          "memberId": "mohammed-benyahia-ge1d4s",
+          "weight": 50,
+          "progress": 90
         }
       ],
       "notes": {}
