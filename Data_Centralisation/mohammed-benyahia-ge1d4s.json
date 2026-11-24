@@ -5,6 +5,7 @@
   "travel": "A fixer: Bordeaux pour Remplacement RTC , sous réserve de la réponse de Grégory",
   "leave": "Ancien congé: 12/11 au 13/11\nPas de congé à venir",
   "remark": "Priorité actuelle donnée aux exigences VCS Relay et aux essais RTC/Digivoi au laboratoire.",
+  "availability": [],
   "activities": [
     {
       "id": "task-us-001",
@@ -13,7 +14,24 @@
       "title": "DIG-CAT 001 | Rédiger le cahier de tests DIGIVOI",
       "done": "Rédaction et structuration du cahier de tests DIGIVOI pour les téléphones SNOM D735 et les modules D7C. Création du référentiel de tests et de configuration ainsi que de l’architecture de la plateforme de laboratoire.  \nEn complément du cahier de tests, rédaction des guides d’installation et de configuration pour le laboratoire et DIGIVOI, ainsi que du document regroupant les exigences applicables aux équipements SNOM pour CATIA et DIGIVOI. La campagne de tests a débuté et les résultats sont intégrés progressivement dans le cahier.",
       "future": "Poursuivre la campagne de tests, analyser les résultats obtenus et compléter le cahier de tests jusqu’à la validation de l’ensemble des scénarios\nRajout de tests avec SIP proxy suite à la demande de l'équipe CATIA,",
-      "effort": "heavy"
+      "effort": "heavy",
+      "status": "Non renseigné",
+      "priority": "Non renseignée",
+      "start": "",
+      "due": "",
+      "taskType": "",
+      "contact": "",
+      "reference": "",
+      "meeting": "",
+      "archived": false,
+      "assignments": [
+        {
+          "memberId": "mohammed-benyahia-ge1d4s",
+          "weight": 100,
+          "progress": null
+        }
+      ],
+      "notes": {}
     },
     {
       "id": "task-us-002",
@@ -22,7 +40,24 @@
       "title": "DIG-CAT 002 | Tests fonctionnels SNOM",
       "done": "Installation et configuration des téléphones SNOM D735 et des modules D7C. Intégration et paramétrage d’un IPBX pour permettre leur utilisation sur la plateforme de tests.  \nDémarrage des tests fonctionnels. Un dysfonctionnement du Picoscope bloquant les essais a été diagnostiqué avec Patrice. Une solution de réparation a été mise en œuvre afin de reprendre la campagne de tests. Les premiers résultats ont été analysés et intégrés dans le cahier de tests.",
       "future": "Poursuivre les différents scénarios de tests fonctionnels, analyser les résultats et compléter le cahier de tests ainsi que le référentiel de configuration. Préparer ensuite les essais avec l’équipe CATIA et le proxy SIP.",
-      "effort": "heavy"
+      "effort": "heavy",
+      "status": "Non renseigné",
+      "priority": "Non renseignée",
+      "start": "",
+      "due": "",
+      "taskType": "",
+      "contact": "",
+      "reference": "",
+      "meeting": "",
+      "archived": false,
+      "assignments": [
+        {
+          "memberId": "mohammed-benyahia-ge1d4s",
+          "weight": 100,
+          "progress": null
+        }
+      ],
+      "notes": {}
     },
     {
       "id": "task-us-005",
@@ -31,7 +66,24 @@
       "title": "RTC 001 | Rédiger le cahier de tests RTC",
       "done": "Rédaction et finalisation du cahier de tests RTC. Les scénarios de tests ainsi que les supports nécessaires à la centralisation des configurations et des résultats ont été préparés.",
       "future": "Alimenter le cahier avec les résultats obtenus lors de la campagne de tests et le mettre à jour en fonction des éventuels ajustements de configuration.",
-      "effort": "heavy"
+      "effort": "heavy",
+      "status": "Non renseigné",
+      "priority": "Non renseignée",
+      "start": "",
+      "due": "",
+      "taskType": "",
+      "contact": "",
+      "reference": "",
+      "meeting": "",
+      "archived": false,
+      "assignments": [
+        {
+          "memberId": "mohammed-benyahia-ge1d4s",
+          "weight": 100,
+          "progress": null
+        }
+      ],
+      "notes": {}
     },
     {
       "id": "task-us-006",
@@ -40,7 +92,24 @@
       "title": "RTC 002 | Configuration de la baie et des équipements",
       "done": "Finalisation de l’organisation et de la configuration de la baie du laboratoire ainsi que des équipements associés. Ajout et intégration de deux IPBX dans la baie pour les besoins du projet DIGIVOI. Paramétrage des IPBX afin de permettre l’enregistrement et l’utilisation des téléphones SNOM sur la plateforme de tests.",
       "future": "Vérifier le fonctionnement de l’ensemble de la configuration pendant les essais et réaliser les éventuels ajustements identifiés. Mettre en place une liaison permettant aux autres membres du laboratoire d’utiliser les téléphones SNOM raccordés à la baie, afin de regrouper les téléphones dans un même meuble et de faciliter leur utilisation pour les différents essais.",
-      "effort": "heavy"
+      "effort": "heavy",
+      "status": "Non renseigné",
+      "priority": "Non renseignée",
+      "start": "",
+      "due": "",
+      "taskType": "",
+      "contact": "",
+      "reference": "",
+      "meeting": "",
+      "archived": false,
+      "assignments": [
+        {
+          "memberId": "mohammed-benyahia-ge1d4s",
+          "weight": 100,
+          "progress": null
+        }
+      ],
+      "notes": {}
     },
     {
       "id": "task-us-007",
@@ -49,7 +118,24 @@
       "title": "RTC 003 | Préparer la configuration des sites de Reims et Bordeaux",
       "done": "Échanges réalisés avec les équipes de Reims et de Bordeaux afin de préparer le remplacement des équipements RTC. Pour Reims, les informations nécessaires à la préparation de la configuration ont été récupérées.  \nPour Bordeaux, une réunion a permis de réaliser un premier état des lieux de l’installation existante et d’identifier les principaux équipements et contraintes à prendre en compte.",
       "future": "À l’issue de la campagne de tests, commencer la configuration des équipements destinés à Reims à partir des informations déjà recueillies. Effectuer le déplacement à Bordeaux afin de compléter l’état des lieux, valider avec le site les modalités d’installation du matériel et récupérer les informations nécessaires avant de démarrer sa configuration.",
-      "effort": "heavy"
+      "effort": "heavy",
+      "status": "Non renseigné",
+      "priority": "Non renseignée",
+      "start": "",
+      "due": "",
+      "taskType": "",
+      "contact": "",
+      "reference": "",
+      "meeting": "",
+      "archived": false,
+      "assignments": [
+        {
+          "memberId": "mohammed-benyahia-ge1d4s",
+          "weight": 100,
+          "progress": null
+        }
+      ],
+      "notes": {}
     },
     {
       "id": "task-us-008",
@@ -58,7 +144,24 @@
       "title": "Rel-001 | Revue et consolidation des exigences",
       "done": "Revue, rédaction et consolidation des exigences VCS Relay dans PFIS pour les lots Administration/Supervision, Architecture, DATA/SecBox et PSSI. Prise en compte des commentaires des relecteurs, ajout de propositions de clarification et mise à jour des exigences.\nen cours:\n- Architecture (80%)",
       "future": "Poursuivre la consolidation des exigences, répondre aux commentaires restants et finaliser les points à clarifier sur l’ensemble des lots.",
-      "effort": "heavy"
+      "effort": "heavy",
+      "status": "Non renseigné",
+      "priority": "Non renseignée",
+      "start": "",
+      "due": "",
+      "taskType": "",
+      "contact": "",
+      "reference": "",
+      "meeting": "",
+      "archived": false,
+      "assignments": [
+        {
+          "memberId": "mohammed-benyahia-ge1d4s",
+          "weight": 100,
+          "progress": null
+        }
+      ],
+      "notes": {}
     },
     {
       "id": "task-us-013",
@@ -67,7 +170,24 @@
       "title": "AGLAE 001 | Suivi interne du projet",
       "done": "Participation aux échanges réguliers avec Frédéric et Arbi afin de suivre l’avancement des différents sujets AGLAE, partager les informations disponibles et coordonner les actions à mener.",
       "future": "Poursuivre les échanges réguliers avec Frédéric et Arbi et assurer le suivi des différents points en cours.",
-      "effort": "light"
+      "effort": "light",
+      "status": "Bloquée",
+      "priority": "Basse",
+      "start": "",
+      "due": "",
+      "taskType": "",
+      "contact": "",
+      "reference": "",
+      "meeting": "",
+      "archived": false,
+      "assignments": [
+        {
+          "memberId": "mohammed-benyahia-ge1d4s",
+          "weight": 100,
+          "progress": null
+        }
+      ],
+      "notes": {}
     },
     {
       "id": "id_7a4w1q8y",
@@ -76,7 +196,24 @@
       "title": "AGLAE 002 | Documentation et livrables",
       "done": "Relecture du cahier de besoin et des fonctions de haut niveau.",
       "future": "Poursuivre la relecture, consolider le document et commenter.",
-      "effort": "light"
+      "effort": "light",
+      "status": "Non renseigné",
+      "priority": "Non renseignée",
+      "start": "",
+      "due": "",
+      "taskType": "",
+      "contact": "",
+      "reference": "",
+      "meeting": "",
+      "archived": false,
+      "assignments": [
+        {
+          "memberId": "mohammed-benyahia-ge1d4s",
+          "weight": 100,
+          "progress": null
+        }
+      ],
+      "notes": {}
     },
     {
       "id": "id_nhjf83ay",
@@ -85,7 +222,24 @@
       "title": "AGLAE 003 | Préparation des liaisons du laboratoire K011",
       "done": "Contribution avec Arbi à la préparation de l'arrivé des liaisons du laboratoire K011. Participation aux échanges avec TRS concernant le raccordement de la plateforme SBC du laboratoire CATIA à REID2 et transmission des informations techniques nécessaires à la préparation de ce raccordement.",
       "future": "Poursuivre la coordination avec Arbi et TRS, accompagner la mise en place des liaisons et vérifier leur disponibilité pour les futurs essais.",
-      "effort": "heavy"
+      "effort": "heavy",
+      "status": "Non renseigné",
+      "priority": "Non renseignée",
+      "start": "",
+      "due": "",
+      "taskType": "",
+      "contact": "",
+      "reference": "",
+      "meeting": "",
+      "archived": false,
+      "assignments": [
+        {
+          "memberId": "mohammed-benyahia-ge1d4s",
+          "weight": 100,
+          "progress": null
+        }
+      ],
+      "notes": {}
     },
     {
       "id": "id_d25pmhd1",
@@ -94,7 +248,24 @@
       "title": "PENS 001 |  Suivi des réunions",
       "done": "Suivi des réunions de cadrage pour la mise en place des passerelles VoIP vers MUAC via Maastricht et échanges sur l’architecture cible.",
       "future": "Poursuivre le suivi des réunions de cadrage et les échanges concernant l’architecture cible.",
-      "effort": "light"
+      "effort": "light",
+      "status": "Non renseigné",
+      "priority": "Non renseignée",
+      "start": "",
+      "due": "",
+      "taskType": "",
+      "contact": "",
+      "reference": "",
+      "meeting": "",
+      "archived": false,
+      "assignments": [
+        {
+          "memberId": "mohammed-benyahia-ge1d4s",
+          "weight": 100,
+          "progress": null
+        }
+      ],
+      "notes": {}
     },
     {
       "id": "id_txdt6u6d",
@@ -103,7 +274,24 @@
       "title": "Cent - 002 | Sourcing STAR",
       "done": "Suivi des réunions de présentation du STAR",
       "future": "Suivi des réunions de présentation du STAR",
-      "effort": "light"
+      "effort": "light",
+      "status": "Non renseigné",
+      "priority": "Non renseignée",
+      "start": "",
+      "due": "",
+      "taskType": "",
+      "contact": "",
+      "reference": "",
+      "meeting": "",
+      "archived": false,
+      "assignments": [
+        {
+          "memberId": "mohammed-benyahia-ge1d4s",
+          "weight": 100,
+          "progress": null
+        }
+      ],
+      "notes": {}
     }
   ]
 }
